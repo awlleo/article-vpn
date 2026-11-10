@@ -1,1 +1,0 @@
-System.register([],function(e,n){"use strict";return{setters:[],execute:function(){e("t",function(e){return e.C1InlineModal="c1_inline_modal",e.C1Modal="c1_modal",e.C1ModalShopPay="c1_modal_shop_pay",e.C1ModalShopPaySignIn="c1_modal_shop_pay_sign_in",e.PaymentRequest="payment_request",e}({}))}}});

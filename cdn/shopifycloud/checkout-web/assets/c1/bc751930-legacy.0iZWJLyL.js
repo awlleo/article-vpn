@@ -1,1 +1,0 @@
-System.register([],function(e,n){"use strict";function t(e){return{value:e.amount.toString(),currency:e.currencyCode.toUpperCase()}}return e({n:t,t:function(e){if(null!=(null==e?void 0:e.amount)&&Number.isFinite(e.amount)&&e.currencyCode)return t({amount:e.amount,currencyCode:e.currencyCode})}}),{setters:[],execute:function(){}}});
