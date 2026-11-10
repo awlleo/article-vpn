@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xyled.online/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xyled.online/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xyled.online/collections/accessories.atom"/>
+  <title>XYLED.ONLINE</title>
+  <updated>2026-11-08T16:12:08-05:00</updated>
+  <author>
+    <name>XYLED.ONLINE</name>
+  </author>
+  <entry>
+    <id>https://xyled.online/products/15397522964758</id>
+    <published>2026-11-08T16:12:08-05:00</published>
+    <updated>2026-11-08T16:12:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/middle-finger-bracelet"/>
+    <title>MIDDLE FINGER BRACELET</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/ProductPhotoMiddleFingerBraceletsRubber.png?v=1794172320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>ONE 8 INCH CIRCUMFERENCE, 15MM TALL RUBBER BRACLET</li>
+</ul>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/15397522964758</id>
+      <title>BLACK W/ WHITE CURSOR</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-MFINGER-BK</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/15397522964758</id>
+      <title>WHITE W/ BLACK CURSOR</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-MFINGER-WT</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10543160426774</id>
+    <published>2026-09-04T15:01:30-04:00</published>
+    <updated>2026-09-04T15:01:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/8-pages-braclet"/>
+    <title>8 PAGES BRACLET</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/8_pages_bracelet_front.png?v=1780349715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>5 INCH BRACELET + 1.5 INCH EXTENSION<br>
+</li>
+<li>8 RESIN COATED PICTURE CHARMS<br>
+</li>
+<li>STAINLESS STEEL</li>
+</ul>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10543160426774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>BRC-8PAGES</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10543160295702</id>
+    <published>2026-09-04T15:01:28-04:00</published>
+    <updated>2026-09-04T15:01:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/8-pages-flashlight-keychain"/>
+    <title>8 PAGES FLASHLIGHT KEYCHAIN</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/8_pages_keychain_front.png?v=1780349716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="font-size: 0.875rem;">FLASHLIGHT KEYCHAIN DISPLAYING SLENDER MAN</span></li>
+<li>THIS IS A NOVELTY NOT INTENTED TO BE USED AS AN ACTUAL FLASHLIGHT<br>
+</li>
+</ul>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10543160295702</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>KCH-8PAGES</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10254059405590</id>
+    <published>2026-04-24T15:00:05-04:00</published>
+    <updated>2026-04-24T15:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/7-taskbar-belt"/>
+    <title>7 TASKBAR BELT</title>
+    <s:type>Belt</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/7belt1.png?v=1771634757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>ONE SIZE FITS ALL SIZES 28-42<br>
+</li>
+<li>7.5CM X 11.45CM STAINLESS STEEL BUCKLE<br>
+</li>
+<li>PU LEATHER BELT</li>
+</ul>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 25889:51248259596566;50369729134870</s:tag>
+    <s:variant>
+      <id>https://xyled.online/products/10254059405590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLT-7TASKBAR</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10417629561110</id>
+    <published>2026-04-04T15:19:46-04:00</published>
+    <updated>2026-04-04T15:19:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/url-keychain"/>
+    <title>URL KEYCHAIN</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/url_keychain.png?v=1771549919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 SINGLE SIDED INCH PVC KEYCHAINS WITH KEYRING</li>
+</ul>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10417629561110</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>KCH-URL</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10433163952406</id>
+    <published>2026-03-20T15:00:01-04:00</published>
+    <updated>2026-03-20T15:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/unregistered-xyledcam-2-bracelet"/>
+    <title>UNREGISTERED XYLEDCAM 2 BRACELET</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/hypercam_bracelets_product_photos.png?v=1773047144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>ONE 8 INCH CIRCUMFERENCE, 15MM TALL RUBBER BRACLET</li>
+</ul>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10433163952406</id>
+      <title>BLACK W/ WHITE TEXT</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-XYLEDCAM2-BK</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10433163952406</id>
+      <title>WHITE W/ BLACK TEXT</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-XYLEDCAM2-WT</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10353573298454</id>
+    <published>2026-02-06T15:00:04-05:00</published>
+    <updated>2026-02-06T15:00:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/rbx-rubber-bracelet"/>
+    <title>RBX RUBBER BRACELET</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/roblox_rubber_bracelets_new.png?v=1781719426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ONE 8" X 1" INCH RUBBER BRACLET</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10353573298454</id>
+      <title>BLACK</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>BRC-RBX-BK</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353573298454</id>
+      <title>WHITE</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>BRC-RBX-WT</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10254070087958</id>
+    <published>2025-11-28T15:00:00-05:00</published>
+    <updated>2025-11-28T15:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/shoop-da-whoop-belt"/>
+    <title>SHOOP DA WHOOP BELT</title>
+    <s:type>Belt</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/laserbeltfront.png?v=1762647490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><i><b>"IMMA FIRIN' MAH LAZOR!!!!"</b></i></p>
+<p>ONE SIZE FITS ALL SIZES 28-42<br>5CM X 7.5CM STAINLESS STEEL BUCKLE<br>PU LEATHER BELT</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 25889:50369729134870</s:tag>
+    <s:variant>
+      <id>https://xyled.online/products/10254070087958</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>BLT-SHOOP</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10171810906390</id>
+    <published>2025-09-05T15:00:00-04:00</published>
+    <updated>2025-09-05T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/tac-nayn-belt"/>
+    <title>TAC NAYN BELT</title>
+    <s:type>Belt</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/photo1tac_0f07cbda-8f00-408f-89ba-bf0c246beb21.png?v=1756929779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ONE SIZE FITS ALL SIZES 28-42<br>7.5CM X 12CM BUCKLE<br>STAINLESS STEEL + ENAMEL BUCKLE<br>PU LEATHER BELT</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 25889:49742889091350</s:tag>
+    <s:variant>
+      <id>https://xyled.online/products/10171810906390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLT-TACNAYN</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9852875604246</id>
+    <published>2025-07-25T15:00:02-04:00</published>
+    <updated>2025-07-25T15:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/taskbar-belt"/>
+    <title>XP TASKBAR BELT</title>
+    <s:type>Belt</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/taskbarbelt1.png?v=1751887015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>ONE SIZE FITS ALL SIZES 28-42<br>
+</li>
+<li>STAINLESS STEEL BUCKLE<br>
+</li>
+<li>PU LEATHER BELT</li>
+</ul>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 25889:50369729134870</s:tag>
+    <s:variant>
+      <id>https://xyled.online/products/9852875604246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLT-XPTASKBAR</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9971773899030</id>
+    <published>2025-05-23T05:56:44-04:00</published>
+    <updated>2025-05-23T05:56:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/stuffed-keychain-with-sound"/>
+    <title>STUFFED KEYCHAIN (WITH SOUND!)</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/doritosplushfront.png?v=1746591453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PLAYS 1 OF 8 DIFFERENT MLG SOUNDS WHEN SQUEEZED<br>6.5 INCHES TALL, 4.75 INCHES WIDE</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9971773899030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>KCH-DORITOS</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9852888547606</id>
+    <published>2025-05-23T05:56:43-04:00</published>
+    <updated>2025-05-23T05:56:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/mlg-bracelet"/>
+    <title>MLG BRACELET</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/2ndversionmlgbraceletproductphoto2-21-2025.png?v=1740198301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>6 INCH BRACELET + 2.5 INCH EXTENSION<br>
+</li>
+<li>8 RESIN COATED PICTURE CHARMS<br>
+</li>
+<li>STAINLESS STEEL<br>
+</li>
+</ul>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9852888547606</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>BRC-MLG</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9852719071510</id>
+    <published>2025-02-21T15:00:10-05:00</published>
+    <updated>2025-02-21T15:00:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/nyan-cat-belt"/>
+    <title>NYAN CAT BELT</title>
+    <s:type>Belt</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/2new.png?v=1739864041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ONE SIZE FITS ALL SIZES 28-42<br>7.5CM X 12CM BUCKLE SIZE<br>STAINLESS STEEL + ENAMEL BUCKLE<br>PU LEATHER BELT</p>
+<p><strong>SHIPS IN 3-5 DAYS<br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 25889:49742889091350</s:tag>
+    <s:variant>
+      <id>https://xyled.online/products/9852719071510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLT-NYANCAT</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9857107034390</id>
+    <published>2025-02-13T02:26:35-05:00</published>
+    <updated>2025-02-13T02:26:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/body-swap-potion-necklaces"/>
+    <title>BODY SWAP POTION NECKLACES</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/a549e4e2f0f31619feaf40d31f4bfd3b.jpg?v=1738889924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>SET OF 2 CONNECTABLE NECKLACES<br>STAINLESS STEEL + HAND PAINTED ENAMAL<br>22 INCH CHAIN</span></p>
+<p><span>EACH PENDANT IS 3.7CM TALL, 2.3CM WIDE, AND 0.8CM DEEP</span></p>
+<p><strong>SHIPS IN 3-5 DAYS<br></strong></p>
+<p><span>DESIGNED BY + IN COLLABORATION WITH <a href="https://x.com/sneaking_squid" title="https://x.com/sneaking_squid">@SNEAKING_SQUID</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 25889:49730555674902</s:tag>
+    <s:variant>
+      <id>https://xyled.online/products/9857107034390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>NCK-BODYSWAP</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9707514921238</id>
+    <published>2025-02-02T05:32:34-05:00</published>
+    <updated>2025-02-02T05:32:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/chainsaw-keychain"/>
+    <title>CHAINSAW KEYCHAIN</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/CHAINSAWKEYCHAINPRODUCTPHOTO.png?v=1728882130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SINGLE SIDED 3.5 INCH PVC KEYCHAIN</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9707514921238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>KCH-CHAINSAW</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9666372862230</id>
+    <published>2024-09-04T04:10:43-04:00</published>
+    <updated>2024-09-04T04:10:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/epic-face-bracelet"/>
+    <title>EPIC FACE BRACELET</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/epicbraceletfront.png?v=1725404250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>7 INCH STAINLESS STEEL BRACELET + 1.5 INCH EXTENSION FEATURING 7 COLORED ENAMAL EPIC FACE CHARMS</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9666372862230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>BRC-EPICFACE</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9666350809366</id>
+    <published>2024-09-04T04:10:43-04:00</published>
+    <updated>2024-09-04T04:10:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/i-3-dubstep-bracelet"/>
+    <title>I &lt;3 DUBSTEP BRACELET</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/dubstepbraceletphoto.png?v=1725404255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I LOVE DUBSTEP!!!</p>
+<p>8 INCH CIRCUMFERENCE, 15MM TALL</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9666350809366</id>
+      <title>RED</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-DUBSTEP-RD</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666350809366</id>
+      <title>PINK</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-DUBSTEP-PK</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666350809366</id>
+      <title>DARK BLUE</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-DUBSTEP-DBL</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666350809366</id>
+      <title>LIGHT BLUE</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-DUBSTEP-LBL</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666350809366</id>
+      <title>GREEN</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-DUBSTEP-GN</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666350809366</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-DUBSTEP-YL</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666350809366</id>
+      <title>ORANGE</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BRC-DUBSTEP-OR</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9042733433110</id>
+    <published>2024-01-12T13:08:45-05:00</published>
+    <updated>2024-01-12T13:08:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/epic-face-rhinestone-belt"/>
+    <title>EPIC FACE RHINESTONE BELT</title>
+    <s:type>Belt</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FINALEPICFACEBELT1.png?v=1705020842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>7.5CM / 2.95 INCH BUCKLE DIAMETER</span><br><span>PU LEATHER BELT</span><br><br><strong><em>SHIPS IN 3-5 DAYS</em></strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9042733433110</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>BLT-EPIC</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/8556901957910</id>
+    <published>2023-09-11T03:39:08-04:00</published>
+    <updated>2023-09-11T03:39:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/four-norths-bracelet"/>
+    <title>“FOUR NORTHS” BRACELET</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/finalbraceletphoto.png?v=1694417950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18CM<br>2.5CM EXTENSION<br>20.5CM TOTAL LENGTH<br>FULLY STAINLESS STEEL<br><br>LIMITED TO 100 PCS<br><br><strong><em>SHIPS IN 3-5 DAYS</em></strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/8556901957910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>BRC-FOURNORTHS</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+</feed>

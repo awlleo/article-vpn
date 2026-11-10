@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xyled.online/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xyled.online/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xyled.online/collections/beanies.atom"/>
+  <title>XYLED.ONLINE</title>
+  <updated>2026-10-16T15:00:07-04:00</updated>
+  <author>
+    <name>XYLED.ONLINE</name>
+  </author>
+  <entry>
+    <id>https://xyled.online/products/10584737284374</id>
+    <published>2026-10-16T15:00:07-04:00</published>
+    <updated>2026-10-16T15:00:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/i-3-creepypastas-cap"/>
+    <title>I &lt;3 CREEPYPASTAS CAP</title>
+    <s:type>Cap</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/Creepypasta_Cap_Side.png?v=1782246449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Cap<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SNAPBACK FITTING ~53-61CM<br>3D + 2D EMBROIDERY<br>DIGITAL PRINT UNDER BRIM<br>100% COTTON</p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10584737284374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>CAP-IHEARTCREEP</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10417616453910</id>
+    <published>2026-10-16T15:00:00-04:00</published>
+    <updated>2026-10-16T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/jeff-the-killer-mask"/>
+    <title>JEFF THE KILLER MASK</title>
+    <s:type>Mask</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/Jeff_mask_1.png?v=1771549568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% POLYESTER BREATHABLE MASK</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10417616453910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>MSK-JEFF</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10584646451478</id>
+    <published>2026-06-26T15:01:04-04:00</published>
+    <updated>2026-06-26T15:01:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/star-tailslide-cap"/>
+    <title>): STAR TAILSLIDE CAP</title>
+    <s:type>Cap</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/Star_Tailslide_Front.png?v=1782241582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Cap<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SNAPBACK FITTING ~53-61CM<br>3D + 2D EMBROIDERY<br>100% COTTON</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10584646451478</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>CAP-STARTAIL</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10584653136150</id>
+    <published>2026-06-26T15:00:56-04:00</published>
+    <updated>2026-06-26T15:00:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/front-stand-cap"/>
+    <title>): FRONT STAND CAP</title>
+    <s:type>Cap</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/Front_Stand_1.png?v=1782241677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Cap<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SNAPBACK FITTING ~53-61CM<br>3D + 2D EMBROIDERY<br>100% COTTON</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10584653136150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>CAP-FRONTSTAND</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10306360213782</id>
+    <published>2026-02-06T15:00:00-05:00</published>
+    <updated>2026-02-06T15:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/green-sidewinder-cap"/>
+    <title>): GREEN SIDEWINDER CAP</title>
+    <s:type>Cap</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/GSC_FRONT_V1.png?v=1766959051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Cap<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SNAPBACK FITTING ~53-61CM<br>3D + 2D EMBROIDERY<br>100% COTTON WITH SATIN LINING<br><br>COLLABORATION WITH <a href="https://distain.net/" target="_blank" rel="noopener">DISTAIN.NET</a></p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10306360213782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>CAP-GREENSIDE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10131948601622</id>
+    <published>2025-11-14T15:00:00-05:00</published>
+    <updated>2025-11-14T15:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/snoo-beanie"/>
+    <title>SNOO BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/redditbeanie1v3.png?v=1763002293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><em>thanks for the gold kind stranger</em></strong></p>
+<p>ONE SIZE MEASURES 8.5 INCHES WIDE 9 INCHES TALL + STRETCHES<br></p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10131948601622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>BNE-SNOO</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10074875986198</id>
+    <published>2025-07-25T15:00:00-04:00</published>
+    <updated>2025-07-25T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/explorer-beanie"/>
+    <title>EXPLORER BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/ie1.png?v=1751879306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-prosemirror-content-type="node" data-prosemirror-node-name="paragraph" data-prosemirror-node-block="true" data-pm-slice="1 1 []">"Have you had a break today?"</p>
+<p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10074875986198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-EXPLORER</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10041664241942</id>
+    <published>2025-06-20T14:00:18-04:00</published>
+    <updated>2025-06-20T14:00:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/ahenobarbus-v2-knit-beanie-1"/>
+    <title>DREAM MAN KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/hystmb1.png?v=1750393095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10041664241942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-DREAMMAN</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10041664110870</id>
+    <published>2025-06-20T14:00:18-04:00</published>
+    <updated>2025-06-20T14:00:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/jeff-the-killer-v2-knit-beanie"/>
+    <title>JEFF THE KILLER V2 KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/jbv21.png?v=1750393116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10041664110870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-JEFFV2</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10041663947030</id>
+    <published>2025-06-20T14:00:17-04:00</published>
+    <updated>2025-06-20T14:00:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/yoshie-v2-knit-beanie"/>
+    <title>YOSHIE V2 KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/ybv21.png?v=1750393042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10041663947030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-YOSHIEV2</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10041663750422</id>
+    <published>2025-06-20T14:00:17-04:00</published>
+    <updated>2025-06-20T14:00:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/smile-dog-knit-beanie-copy"/>
+    <title>EXORCIST KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/eb1.png?v=1750392997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10041663750422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-EXORCIST</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10041663652118</id>
+    <published>2025-06-20T14:00:16-04:00</published>
+    <updated>2025-06-20T14:00:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/smile-dog-knit-beanie"/>
+    <title>SMILE DOG KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/sdb1.png?v=1750392972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10041663652118</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-SMILEDOGKNIT</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10041658736918</id>
+    <published>2025-06-20T14:00:15-04:00</published>
+    <updated>2025-06-20T14:00:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/ahenobarbus-v2-knit-beanie"/>
+    <title>AHENOBARBUS V2 KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/abv21.png?v=1750392342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10041658736918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-AHENOV2</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9971773931798</id>
+    <published>2025-05-23T05:56:44-04:00</published>
+    <updated>2025-05-23T05:56:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/intervention-knit-beanie"/>
+    <title>INTERVENTION KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/interventionbeaniefront.png?v=1746591425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9971773931798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-INTERV</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9707512561942</id>
+    <published>2024-10-14T01:03:42-04:00</published>
+    <updated>2024-10-14T01:03:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/smile-dog-balaclava"/>
+    <title>SMILE DOG BALACLAVA</title>
+    <s:type>Mask</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/sdbalaclavafront.png?v=1727823237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<span>JACQUARD KNIT BALACLAVA</span><br><span></span>
+</li>
+<li><span>ONE SIZE</span></li>
+</ul>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong><img><img><img></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9707512561942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MSK-SMILEDOGBALA</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9707513577750</id>
+    <published>2024-10-14T01:03:33-04:00</published>
+    <updated>2024-10-14T01:03:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/ahenobarbus-mask"/>
+    <title>AHENOBARBUS MASK</title>
+    <s:type>Mask</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/ahenobarbusmaskfront.png?v=1727823341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% POLYESTER BREATHABLE MASK</li>
+</ul>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9707513577750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>MSK-AHENOBARBUS</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9666303394070</id>
+    <published>2024-09-04T04:10:41-04:00</published>
+    <updated>2024-09-04T04:10:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/tac-nayn-beanie"/>
+    <title>TAC NAYN BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/tacnyanfront.png?v=1724719533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JACQUARD KNIT BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9666303394070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>BNE-TACNAYN</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9666290778390</id>
+    <published>2024-09-04T04:10:41-04:00</published>
+    <updated>2024-09-04T04:10:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/nyan-cat-beanie"/>
+    <title>NYAN CAT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/nyancatfront.png?v=1724718582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JACQUARD KNIT BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9666290778390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>BNE-NYANCAT</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9617567219990</id>
+    <published>2024-07-19T04:26:39-04:00</published>
+    <updated>2024-07-19T04:26:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/red-grind-woven-beanie"/>
+    <title>RED GRIND WOVEN BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/redgrindbeaniefront.png?v=1721090483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9617567219990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-REDGRIND</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9561035309334</id>
+    <published>2024-06-14T18:29:49-04:00</published>
+    <updated>2024-06-14T18:29:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/eyeless-jack-v2-knit-beanie"/>
+    <title>EYELESS JACK V2 KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/v2eyelessjackbeaniefront.png?v=1718403728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9561035309334</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-EYELESSV2</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9531054096662</id>
+    <published>2024-06-07T11:22:14-04:00</published>
+    <updated>2024-06-07T11:22:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/pink-epic-face-knit-beanie"/>
+    <title>PINK EPIC FACE KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/pinkepicface.png?v=1717538792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9531054096662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-EPIC-PK</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9531051802902</id>
+    <published>2024-06-07T11:22:07-04:00</published>
+    <updated>2024-06-07T11:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/purple-epic-face-knit-beanie"/>
+    <title>PURPLE EPIC FACE KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/purpleepicface.png?v=1717538603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9531051802902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-EPIC-PP</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9531053768982</id>
+    <published>2024-06-07T11:22:00-04:00</published>
+    <updated>2024-06-07T11:22:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/blue-epic-face-knit-beanie-copy"/>
+    <title>BLUE EPIC FACE KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/blueepicface.png?v=1717538767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9531053768982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-EPIC-BL</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9531050426646</id>
+    <published>2024-06-07T11:21:55-04:00</published>
+    <updated>2024-06-07T11:21:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/green-epic-face-knit-beanie"/>
+    <title>GREEN EPIC FACE KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/greenepicface.png?v=1717538512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9531050426646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-EPIC-GN</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9531051344150</id>
+    <published>2024-06-07T11:21:49-04:00</published>
+    <updated>2024-06-07T11:21:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/orange-epic-face-knit-beanie"/>
+    <title>ORANGE EPIC FACE KNIT BEANIE</title>
+    <s:type>Beanie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/orangeepicface.png?v=1717538572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Beanie<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LIGHTWEIGHT KNITTED BEANIE<br>ONE SIZE, 8.5 INCHES WIDE FLAT, 8.25 INCHES TALL + STRETCHES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9531051344150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>BNE-EPIC-OR</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+</feed>

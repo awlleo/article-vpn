@@ -1,0 +1,1 @@
+System.register([],function(t,e){"use strict";return t("t",function(t){const e=t.session.paymentMethodOption.value;return null==e?"SHOP_PAY":e.name}),{setters:[],execute:function(){}}});

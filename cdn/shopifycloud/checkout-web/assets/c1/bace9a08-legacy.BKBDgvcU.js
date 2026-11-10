@@ -1,0 +1,1 @@
+System.register(["./6ec9a0fa-legacy.BjCjheH6.js"],function(t,e){"use strict";var n;return t("t",function(){const{shopPay:t}=n();return t}),{setters:[function(t){n=t._D}],execute:function(){}}});

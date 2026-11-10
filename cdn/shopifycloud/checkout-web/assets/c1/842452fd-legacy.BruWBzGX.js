@@ -1,0 +1,1 @@
+System.register(["./630ba094-legacy.UuivW9Jb.js","./app-legacy.zJHUnwhm.js"],function(t,e){"use strict";var a,c,s;return{setters:[function(t){a=t.at,c=t.mt},function(t){s=t.d}],execute:function(){t("t",a({displayName:"Captcha",load:()=>c(()=>s(()=>e.import("7d9fe557-legacy.CdMOJsCJ.js"),void 0))}))}}});

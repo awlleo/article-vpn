@@ -1,0 +1,1 @@
+System.register(["./630ba094-legacy.UuivW9Jb.js","./6ec9a0fa-legacy.BjCjheH6.js"],function(t,e){"use strict";var n,r,u;return t("t",function(){const{shop:{id:t}}=u(),e=r();return n(()=>{var n;return Boolean(null===(n=e.value.get(t))||void 0===n?void 0:n.length)})}),{setters:[function(t){n=t.Bt},function(t){r=t.Pt,u=t._D}],execute:function(){}}});

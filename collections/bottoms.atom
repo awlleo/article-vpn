@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xyled.online/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xyled.online/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xyled.online/collections/bottoms.atom"/>
+  <title>XYLED.ONLINE</title>
+  <updated>2026-10-16T15:00:03-04:00</updated>
+  <author>
+    <name>XYLED.ONLINE</name>
+  </author>
+  <entry>
+    <id>https://xyled.online/products/10543123988758</id>
+    <published>2026-10-16T15:00:03-04:00</published>
+    <updated>2026-10-16T15:00:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/creepypasta-pajamas"/>
+    <title>CREEPYPASTA PAJAMAS</title>
+    <s:type>Pajamas</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/creepypasta_pjs_front.png?v=1780348111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Pajamas<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% POLY FLANNEL FLEECE (LIKE A FUZZY BLANKET)<br>
+</li>
+<li>BAGGY FIT (SIZE CHART IN PHOTOS)</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em><br><em>MODEL IS WEARING SIZE SMALL</em></p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10543123988758</id>
+      <title>XS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-CREEPY-XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10543123988758</id>
+      <title>SMALL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-CREEPY-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10543123988758</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-CREEPY-M</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10543123988758</id>
+      <title>LARGE</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-CREEPY-L</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10543123988758</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-CREEPY-XL</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10543123988758</id>
+      <title>XXL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-CREEPY-XXL</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10543140995350</id>
+    <published>2026-08-08T18:46:04-04:00</published>
+    <updated>2026-08-08T18:46:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/galaxy-pajamas"/>
+    <title>GALAXY PAJAMAS</title>
+    <s:type>Pajamas</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/galaxy_pjs_front.png?v=1780348976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Pajamas<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% POLY FLANNEL FLEECE (LIKE A FUZZY BLANKET)<br>
+</li>
+<li>BAGGY FIT (SIZE CHART IN PHOTOS)</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em><br><em>MODEL IS WEARING SIZE SMALL</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10543140995350</id>
+      <title>XS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-GALAXY-XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10543140995350</id>
+      <title>SMALL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-GALAXY-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10543140995350</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-GALAXY-M</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10543140995350</id>
+      <title>LARGE</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-GALAXY-L</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10543140995350</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-GALAXY-XL</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10543140995350</id>
+      <title>XXL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-GALAXY-XXL</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10433166672150</id>
+    <published>2026-03-20T15:00:02-04:00</published>
+    <updated>2026-03-20T15:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/interdimensional-pajamas"/>
+    <title>INTERDIMENSIONAL PAJAMAS</title>
+    <s:type>Pajamas</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/frontdimensionalpjsproductphotos.png?v=1773034413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Pajamas<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% POLY FLANNEL FLEECE (LIKE A FUZZY BLANKET)<br>
+</li>
+<li>BAGGY FIT (SIZE CHART IN PHOTOS)</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em><br><em>MODEL IS WEARING SIZE SMALL</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10433166672150</id>
+      <title>XS</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>PJS-INTERDIM-XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10433166672150</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>PJS-INTERDIM-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10433166672150</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>PJS-INTERDIM-M</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10433166672150</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>PJS-INTERDIM-L</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10433166672150</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>PJS-INTERDIM-XL</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10433166672150</id>
+      <title>XXL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>PJS-INTERDIM-XXL</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10353571627286</id>
+    <published>2026-02-06T15:00:03-05:00</published>
+    <updated>2026-02-06T15:00:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/morning-dew-pajamas"/>
+    <title>MORNING DEW PAJAMAS</title>
+    <s:type>Pajamas</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/MDPJ_FRONT_V1.png?v=1766958285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Pajamas<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% POLY FLANNEL FLEECE (LIKE A FUZZY BLANKET)<br>
+</li>
+<li>BAGGY FIT (SIZE CHART IN PHOTOS)</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em><br><em>MODEL IS WEARING SIZE SMALL</em></p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10353571627286</id>
+      <title>XS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MORNINGDEW-XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571627286</id>
+      <title>SMALL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MORNINGDEW-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571627286</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MORNINGDEW-M</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571627286</id>
+      <title>LARGE</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MORNINGDEW-L</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571627286</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MORNINGDEW-XL</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571627286</id>
+      <title>XXL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MORNINGDEW-XXL</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10074882998550</id>
+    <published>2025-07-25T15:00:01-04:00</published>
+    <updated>2025-07-25T15:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/black-mlg-pajamas-copy"/>
+    <title>BLISS PAJAMAS</title>
+    <s:type>Pajamas</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/blisspjfront.png?v=1751888991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Pajamas<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% POLY FLANNEL FLEECE (LIKE A FUZZY BLANKET)<br>
+</li>
+<li>BAGGY FIT (SIZE CHART IN PHOTOS)</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em><br><em>MODEL IS WEARING SIZE MEDIUM</em></p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10074882998550</id>
+      <title>XS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-BLISS-XS</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10074882998550</id>
+      <title>SMALL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-BLISS-S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10074882998550</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-BLISS-M</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10074882998550</id>
+      <title>LARGE</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-BLISS-L</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10074882998550</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-BLISS-XL</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10074882998550</id>
+      <title>XXL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-BLISS-XXL</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9842306351382</id>
+    <published>2025-01-24T01:48:11-05:00</published>
+    <updated>2025-01-24T01:48:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/black-mlg-pajamas"/>
+    <title>BLACK MLG PAJAMAS</title>
+    <s:type>Pajamas</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/frontblack.png?v=1737430305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Pajamas<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>COLLABORATION WITH <a href="https://www.distain.net/" rel="noopener" target="_blank">DISTAIN.NET</a></p>
+<ul>
+<li>100% POLY FLANNEL FLEECE (LIKE A FUZZY BLANKET)<br>
+</li>
+<li>BAGGY FIT (SIZE CHART IN PHOTOS)</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em><br><em>MODEL IS WEARING SIZE MEDIUM</em></p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9842306351382</id>
+      <title>XS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-BK-XS</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9842306351382</id>
+      <title>SMALL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-BK-S</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9842306351382</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-BK-M</s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9842306351382</id>
+      <title>LARGE</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-BK-L</s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9842306351382</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-BK-XL</s:sku>
+      <s:grams>652</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9842306351382</id>
+      <title>XXL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-BK-XXL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9842300813590</id>
+    <published>2025-01-24T01:48:10-05:00</published>
+    <updated>2025-01-24T01:48:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/rainbow-mlg-pajamas"/>
+    <title>RAINBOW MLG PAJAMAS</title>
+    <s:type>Pajamas</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/frontrainbow.png?v=1737430307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Pajamas<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>COLLABORATION WITH <a href="https://www.distain.net/" rel="noopener" target="_blank">DISTAIN.NET</a></p>
+<ul>
+<li>100% POLY FLANNEL FLEECE (LIKE A FUZZY BLANKET)<br>
+</li>
+<li>BAGGY FIT (SIZE CHART IN PHOTOS)</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em><br><em>MODEL IS WEARING SIZE MEDIUM</em></p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9842300813590</id>
+      <title>XS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-RB-XS</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9842300813590</id>
+      <title>SMALL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-RB-S</s:sku>
+      <s:grams>595</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9842300813590</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-RB-M</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9842300813590</id>
+      <title>LARGE</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-RB-L</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9842300813590</id>
+      <title>XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-RB-XL</s:sku>
+      <s:grams>539</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9842300813590</id>
+      <title>XXL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>PJS-MLG-RB-XXL</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9666325217558</id>
+    <published>2024-09-04T04:10:42-04:00</published>
+    <updated>2024-09-04T04:10:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/creeper-denim"/>
+    <title>CREEPER DENIM</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/creeperjeansfront.png?v=1724720739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14 OZ DENIM<br>DIGITAL PRINT<br>EPIC FACE ENGRAVED BUTTON</p>
+<p>WASH AND DRY THESE DELICATELY</p>
+<p>MODEL IS WEARING SIZE 32x30</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 25889</s:tag>
+    <s:variant>
+      <id>https://xyled.online/products/9666325217558</id>
+      <title>28x30</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-CREEPER-28</s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666325217558</id>
+      <title>30x30</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-CREEPER-30</s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666325217558</id>
+      <title>32x30</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-CREEPER-32</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666325217558</id>
+      <title>34x32</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-CREEPER-34</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666325217558</id>
+      <title>36x32</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-CREEPER-36</s:sku>
+      <s:grams>1077</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666325217558</id>
+      <title>38x32</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-CREEPER-38</s:sku>
+      <s:grams>1077</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9666322268438</id>
+    <published>2024-09-04T04:10:42-04:00</published>
+    <updated>2024-09-04T04:10:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/laser-denim"/>
+    <title>LASER DENIM</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/laserjeansfront.png?v=1724720220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14 OZ DENIM<br>DIGITAL PRINT<br>EPIC FACE ENGRAVED BUTTON</p>
+<p>WASH AND DRY THESE DELICATELY</p>
+<p>MODEL IS WEARING SIZE 32x30</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 25889</s:tag>
+    <s:variant>
+      <id>https://xyled.online/products/9666322268438</id>
+      <title>28x30</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-LASER-28</s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666322268438</id>
+      <title>30x30</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-LASER-30</s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666322268438</id>
+      <title>32x30</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-LASER-32</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666322268438</id>
+      <title>34x32</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-LASER-34</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666322268438</id>
+      <title>36x32</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-LASER-36</s:sku>
+      <s:grams>1077</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9666322268438</id>
+      <title>38x32</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>JNS-LASER-38</s:sku>
+      <s:grams>1077</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/8570622574870</id>
+    <published>2023-09-16T00:09:25-04:00</published>
+    <updated>2023-09-16T00:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/voyager-denim"/>
+    <title>VOYAGER DENIM</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/voyager1.png?v=1694837369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>DETACHABLE STRAPS</span><br><span>SCREENPRINTED GRAPHICS</span><br><span>REAR POCKET ZIPPERS</span><br><span>30 INCH FLARED LEG OPENING</span><br></p>
+<p>LIMITED TO 30 PAIRS</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/8570622574870</id>
+      <title>30x30</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>JNS-VOYAGER-30</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/8570622574870</id>
+      <title>32x30</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>JNS-VOYAGER-32</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/8570622574870</id>
+      <title>34x30</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>JNS-VOYAGER-34</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/8570622574870</id>
+      <title>36x30</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>JNS-VOYAGER-36</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/8570622574870</id>
+      <title>38x30</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>JNS-VOYAGER-38</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/8570622574870</id>
+      <title>40x30</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>JNS-VOYAGER-40</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1 @@
+System.register(["./630ba094-legacy.UuivW9Jb.js","./6ec9a0fa-legacy.BjCjheH6.js"],function(t,e){"use strict";var n,c,r,a;return t("t",function(){const{checkout:{negotiator:t}}=a(),e=t.parts.paymentLines;return n(()=>{const[t]=r(e.value,[c.AmazonPay]);return t})}),{setters:[function(t){n=t.Bt},function(t){c=t.DT,r=t.OS,a=t._D}],execute:function(){}}});

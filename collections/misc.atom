@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xyled.online/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xyled.online/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xyled.online/collections/misc.atom"/>
+  <title>XYLED.ONLINE</title>
+  <updated>2026-03-04T03:24:28-05:00</updated>
+  <author>
+    <name>XYLED.ONLINE</name>
+  </author>
+  <entry>
+    <id>https://xyled.online/products/10287128641814</id>
+    <published>2026-03-04T03:24:28-05:00</published>
+    <updated>2026-03-04T03:24:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/chainsaw-rug"/>
+    <title>CHAINSAW RUG</title>
+    <s:type>Rug</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/chainsawrugfront.png?v=1762916119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Rug<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>122CM x 33.5CM | 4FT x 1.1FT</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10287128641814</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RUG-CHAINSAW</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10222569193750</id>
+    <published>2025-09-26T15:00:01-04:00</published>
+    <updated>2025-09-26T15:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/youtube-fingerboard"/>
+    <title>YOUTUBE FINGERBOARD</title>
+    <s:type>Toy</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/Youtube_Fingerboard_Front.png?v=1758781967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>32MM WOOD FINGERBOARD<br>FOAM GRIP TAPE WITH PRINTED LOGO<br>NICE ASS BEARINGS, TRUCKS, AND WHEELS<br>INCLUDED SKATE TOOL</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10222569193750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FGB-YOUTUBE</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10222569029910</id>
+    <published>2025-09-26T15:00:01-04:00</published>
+    <updated>2025-09-26T15:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/banner-fingerboard"/>
+    <title>BANNER FINGERBOARD</title>
+    <s:type>Toy</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/Banner_Fingerboard_Front.png?v=1758782134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>32MM WOOD FINGERBOARD<br>FOAM GRIP TAPE WITH PRINTED LOGO<br>NICE ASS BEARINGS, TRUCKS, AND WHEELS<br>INCLUDED SKATE TOOL</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10222569029910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FGB-BANNER</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10222568898838</id>
+    <published>2025-09-26T15:00:00-04:00</published>
+    <updated>2025-09-26T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/scary-monsters-fingerboard"/>
+    <title>SCARY MONSTERS FINGERBOARD</title>
+    <s:type>Toy</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/ScaryMonstersFingerboardFront.png?v=1758781598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>32MM WOOD FINGERBOARD<br>FOAM GRIP TAPE WITH PRINTED LOGO<br>NICE ASS BEARINGS, TRUCKS, AND WHEELS<br>INCLUDED SKATE TOOL</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10222568898838</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FGB-SCARYMON</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9863579664662</id>
+    <published>2025-09-25T03:09:41-04:00</published>
+    <updated>2025-09-25T03:09:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/420-epic-face-fingerboard"/>
+    <title>420 EPIC FACE FINGERBOARD</title>
+    <s:type>Toy</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/420fingerboardfront.png?v=1740194113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>32MM WOOD FINGERBOARD<br>FOAM GRIP TAPE WITH PRINTED LOGO<br>NICE ASS BEARINGS, TRUCKS, AND WHEELS<br>INCLUDED SKATE TOOL</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9863579664662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>FGB-420EPIC</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9863577436438</id>
+    <published>2025-09-25T03:09:40-04:00</published>
+    <updated>2025-09-25T03:09:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/smile-dog-fingerboard"/>
+    <title>SMILE DOG FINGERBOARD</title>
+    <s:type>Toy</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/smiledogfingerboardfront.png?v=1740194109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>32MM WOOD FINGERBOARD<br>FOAM GRIP TAPE WITH PRINTED LOGO<br>NICE ASS BEARINGS, TRUCKS, AND WHEELS<br>INCLUDED SKATE TOOL</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9863577436438</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>FGB-SMILEDOG</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9863576256790</id>
+    <published>2025-09-25T03:09:40-04:00</published>
+    <updated>2025-09-25T03:09:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/mlg-fingerboard"/>
+    <title>MLG FINGERBOARD</title>
+    <s:type>Toy</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/mlgfingerboardfront.png?v=1740194111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>32MM WOOD FINGERBOARD<br>FOAM GRIP TAPE WITH PRINTED LOGO<br>NICE ASS BEARINGS, TRUCKS, AND WHEELS<br>INCLUDED SKATE TOOL</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9863576256790</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>FGB-MLG</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9968328114454</id>
+    <published>2025-05-02T05:29:22-04:00</published>
+    <updated>2025-05-02T05:29:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/fidget-spinner"/>
+    <title>FIDGET SPINNER</title>
+    <s:type>Toy</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/fidgetspinnerproductphoto5-2-2025.png?v=1746177834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LOGO ON BOTH SIDES</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9968328114454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>ACC-FIDGETSPINNER</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9840269558038</id>
+    <published>2025-01-31T15:00:23-05:00</published>
+    <updated>2025-01-31T15:00:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/sticker-pack-v1"/>
+    <title>STICKER PACK VOL. 1</title>
+    <s:type>Sticker Pack</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/NEWstickersproductphotosquare.png?v=1736985526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Sticker Pack<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>dope ass stickers</p>
+<p>INCLUDED:<br>EPIC FACE - 2.87" x 2.87"<br>WIZARD - 2.6" x 5"<br>CHAINSAW - 5" x 1.54"<br>TUX - 4" x 3.79"<br>IPHONE - 2.52" x 4.7"</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9840269558038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>STK-PACK1</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9618679202070</id>
+    <published>2024-07-19T04:26:40-04:00</published>
+    <updated>2024-07-19T04:26:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/respawn-rug"/>
+    <title>RESPAWN RUG</title>
+    <s:type>Rug</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/RUGPHOTO1.png?v=1721174458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Rug<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROBLOX RESPAWN PLATE RUG<br>24 x 24 INCH HAND TUFTED RUG<br>HAND CARVED DETAILS</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9618679202070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>RUG-RESPAWN</s:sku>
+      <s:grams>1503</s:grams>
+    </s:variant>
+  </entry>
+</feed>

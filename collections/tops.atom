@@ -1,0 +1,1598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xyled.online/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xyled.online/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xyled.online/collections/tops.atom"/>
+  <title>XYLED.ONLINE</title>
+  <updated>2026-10-16T15:00:06-04:00</updated>
+  <author>
+    <name>XYLED.ONLINE</name>
+  </author>
+  <entry>
+    <id>https://xyled.online/products/10569051898134</id>
+    <published>2026-10-16T15:00:06-04:00</published>
+    <updated>2026-10-16T15:00:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/today-im-feeling-tee"/>
+    <title>TODAY IM FEELING... TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FrontNew_How_Are_You_Feeling_Tee_Product_Photos.png?v=1791339951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>DTG PRINT</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10569051898134</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-JEFFFEEL-BK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569051898134</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-JEFFFEEL-BK-M</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569051898134</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-JEFFFEEL-BK-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569051898134</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-JEFFFEEL-BK-XL</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10569050849558</id>
+    <published>2026-10-16T15:00:05-04:00</published>
+    <updated>2026-10-16T15:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/cupcakes-tee"/>
+    <title>CUPCAKES TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FrontCupcakesTeeProductPhotos.png?v=1781646453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>SINGLE COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10569050849558</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-CUPCAKE-BK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569050849558</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-CUPCAKE-BK-M</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569050849558</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-CUPCAKE-BK-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569050849558</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-CUPCAKE-BK-XL</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10421173780758</id>
+    <published>2026-10-16T15:00:01-04:00</published>
+    <updated>2026-10-16T15:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/ahenobarbus-v2-tee"/>
+    <title>AHENOBARBUS V2 TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FrontAhenobarbusV2TeeProductPhotos.png?v=1775358014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>FULL COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10421173780758</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-AHENOV2-BK-S</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173780758</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-AHENOV2-BK-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173780758</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-AHENOV2-BK-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173780758</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-AHENOV2-BK-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10569051472150</id>
+    <published>2026-09-19T15:00:02-04:00</published>
+    <updated>2026-09-19T15:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/more-monsters-tee"/>
+    <title>MORE MONSTERS TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FrontMoreMonstersTeeProductPhotos.png?v=1781646598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>FULL COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10569051472150</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-MOREMONS-BK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569051472150</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-MOREMONS-BK-M</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569051472150</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-MOREMONS-BK-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569051472150</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-MOREMONS-BK-XL</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10421173420310</id>
+    <published>2026-09-19T15:00:01-04:00</published>
+    <updated>2026-09-19T15:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/bangarang-tee"/>
+    <title>BANGARANG TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FrontBangarangTeeProductPhotos.png?v=1775360300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>FULL COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10421173420310</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-BANGARANG-WT-S</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173420310</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-BANGARANG-WT-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173420310</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-BANGARANG-WT-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173420310</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-BANGARANG-WT-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10421173354774</id>
+    <published>2026-09-19T15:00:00-04:00</published>
+    <updated>2026-09-19T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/scary-monsters-tee"/>
+    <title>SCARY MONSTERS TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FrontScaryMonstersTeeProductPhotos.png?v=1775358558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>FULL COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10421173354774</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-SCARYMON-BK-S</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173354774</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-SCARYMON-BK-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173354774</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-SCARYMON-BK-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173354774</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-SCARYMON-BK-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10569032859926</id>
+    <published>2026-09-04T15:01:31-04:00</published>
+    <updated>2026-09-04T15:01:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/8-pages-tee"/>
+    <title>8 PAGES TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/Front8PagesTeeProductPhotos.png?v=1781646181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>SINGLE COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10569032859926</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-8PAGES-BK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569032859926</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-8PAGES-BK-M</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569032859926</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-8PAGES-BK-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10569032859926</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-8PAGES-BK-XL</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10421173322006</id>
+    <published>2026-06-17T16:09:48-04:00</published>
+    <updated>2026-06-17T16:09:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/oblivion-tee"/>
+    <title>OBLIVION TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FrontOblivionTeeProductPhotos.png?v=1775340503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>FULL COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10421173322006</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-OBLIVION-BK-S</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173322006</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-OBLIVION-BK-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173322006</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-OBLIVION-BK-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173322006</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-OBLIVION-BK-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10421173256470</id>
+    <published>2026-06-17T16:09:48-04:00</published>
+    <updated>2026-06-17T16:09:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/stalker-tee"/>
+    <title>STALKER TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FrontStalkerTeeProductPhotos.png?v=1775340778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>FULL COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10421173256470</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-STALKER-BK-S</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173256470</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-STALKER-BK-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173256470</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-STALKER-BK-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173256470</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-STALKER-BK-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10421173223702</id>
+    <published>2026-06-17T16:09:47-04:00</published>
+    <updated>2026-06-17T16:09:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/antivirus-tee"/>
+    <title>ANTIVIRUS TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FrontAntivirusShirtProductPhotos.png?v=1773225950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>MULTI COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10421173223702</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-ANTIVIRUS-BK-S</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173223702</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-ANTIVIRUS-BK-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173223702</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-ANTIVIRUS-BK-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173223702</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-ANTIVIRUS-BK-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10419929022742</id>
+    <published>2026-04-17T16:00:34-04:00</published>
+    <updated>2026-04-17T16:00:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/aero-life-tee"/>
+    <title>FRUTIGER TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/FrontAeroLifeTeeProductPhotos.png?v=1775359858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>FULL COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10419929022742</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-FRUTIGER-WT-S</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10419929022742</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-FRUTIGER-WT-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10419929022742</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-FRUTIGER-WT-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10419929022742</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-FRUTIGER-WT-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10421173453078</id>
+    <published>2026-03-20T15:00:00-04:00</published>
+    <updated>2026-03-20T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/youtube-tee"/>
+    <title>YOUTUBE TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/frontYoutubeTeeProductPhotos.png?v=1773037999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 COLOR SCREENPRINT<br>
+</li>
+<li>220GSM<br>
+</li>
+<li>100% COTTON<br>
+</li>
+<li>STANDARD FIT (SIZE CHART IN PHOTOS)<br>
+</li>
+<li>CUT + SEWN</li>
+</ul>
+<p><em>WASH COLD + HANG DRY</em><br><em>PRODUCT PHOTO IS SIZE MEDIUM</em></p>
+<p><strong>SHIPS IN 3-5 DAYS</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10421173453078</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-YOUTUBE-WT-S</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173453078</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-YOUTUBE-WT-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173453078</id>
+      <title>LARGE</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-YOUTUBE-WT-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10421173453078</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>TEE-YOUTUBE-WT-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10353571201302</id>
+    <published>2026-02-06T15:00:02-05:00</published>
+    <updated>2026-02-06T15:00:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/alien-red-longsleeve"/>
+    <title>ALIEN RED LONGSLEEVE</title>
+    <s:type>Longsleeve</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/ARLS_FRONT_V1_9b19d49e-2f0a-4cbb-bb74-7296d93f9ce2.png?v=1766960433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Longsleeve<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% COTTON / 220GSM<br>ALL OVER DTG PRINT<br>OVERSIZED FIT<br>SIZE CHART IN PHOTOS</p>
+<p><em><strong> THIS IS A LONGSLEEVE SHIRT BTW NOT A SWEATER</strong></em></p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10353571201302</id>
+      <title>SMALL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-ALIENRED-S</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571201302</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-ALIENRED-M</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571201302</id>
+      <title>LARGE</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-ALIENRED-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571201302</id>
+      <title>XL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-ALIENRED-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10353571135766</id>
+    <published>2026-02-06T15:00:01-05:00</published>
+    <updated>2026-02-06T15:00:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/null_plainsky-longsleeve"/>
+    <title>NULL_PLAINSKY LONGSLEEVE</title>
+    <s:type>Longsleeve</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/NPLS_FRONT_V1.png?v=1766960343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Longsleeve<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% COTTON / 220GSM<br>ALL OVER DTG PRINT<br>OVERSIZED FIT<br>SIZE CHART IN PHOTOS</p>
+<p><em><strong> THIS IS A LONGSLEEVE SHIRT BTW NOT A SWEATER</strong></em></p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10353571135766</id>
+      <title>SMALL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-PLAINSKY-S</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571135766</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-PLAINSKY-M</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571135766</id>
+      <title>LARGE</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-PLAINSKY-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571135766</id>
+      <title>XL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-PLAINSKY-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/10353571102998</id>
+    <published>2026-02-06T15:00:01-05:00</published>
+    <updated>2026-02-06T15:00:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/starry-night-longsleeve"/>
+    <title>STARRY NIGHT LONGSLEEVE</title>
+    <s:type>Longsleeve</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/SNLS_FRONT_V1.png?v=1766960245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Longsleeve<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% COTTON / 220GSM<br>ALL OVER DTG PRINT<br>OVERSIZED FIT<br>SIZE CHART IN PHOTOS</p>
+<p><em><strong> THIS IS A LONGSLEEVE SHIRT BTW NOT A SWEATER</strong></em></p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/10353571102998</id>
+      <title>SMALL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-STARRYNIGHT-S</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571102998</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-STARRYNIGHT-M</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571102998</id>
+      <title>LARGE</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-STARRYNIGHT-L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/10353571102998</id>
+      <title>XL</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LST-STARRYNIGHT-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9451517214998</id>
+    <published>2024-05-17T13:11:10-04:00</published>
+    <updated>2024-05-17T13:11:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/xx_grieferlol_xx-tee"/>
+    <title>Xx_GrieferLOL_xX TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/troll_front.png?v=1715818443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JUMBO FRONT AND BACK DTG PRINT<br>AMERICAN APPAREL ALSTYLE 1301 BLANK<br>6 OZ<br>100% COTTON</p>
+<p>LIMITED TO 26 PCS</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9451517214998</id>
+      <title>SMALL</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GRIEFER-BK-S</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9451517214998</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GRIEFER-BK-M</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9451517214998</id>
+      <title>LARGE</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GRIEFER-BK-L</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9451517214998</id>
+      <title>XL</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GRIEFER-BK-XL</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9451525669142</id>
+    <published>2024-05-17T13:11:05-04:00</published>
+    <updated>2024-05-17T13:11:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/xx_gamerboy_xx-tee"/>
+    <title>Xx_GamerBoy_xX TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/gamer_front.png?v=1715819042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JUMBO FRONT AND BACK DTG PRINT<br>AMERICAN APPAREL ALSTYLE 1301 BLANK<br>6 OZ<br>100% COTTON</p>
+<p>LIMITED TO 26 PCS</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9451525669142</id>
+      <title>SMALL</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GAMERBOY-BK-S</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9451525669142</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GAMERBOY-BK-M</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9451525669142</id>
+      <title>LARGE</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GAMERBOY-BK-L</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9451525669142</id>
+      <title>XL</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GAMERBOY-BK-XL</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9451526029590</id>
+    <published>2024-05-17T13:10:59-04:00</published>
+    <updated>2024-05-17T13:10:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/xx_gamergirl_xx-tee"/>
+    <title>Xx_GamerGirl_xX TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/girl_front.png?v=1715819360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JUMBO FRONT AND BACK DTG PRINT<br>AMERICAN APPAREL ALSTYLE 1301 BLANK<br>6 OZ<br>100% COTTON</p>
+<p>LIMITED TO 26 PCS</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9451526029590</id>
+      <title>SMALL</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GAMERGIRL-BK-S</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9451526029590</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GAMERGIRL-BK-M</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9451526029590</id>
+      <title>LARGE</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GAMERGIRL-BK-L</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9451526029590</id>
+      <title>XL</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-GAMERGIRL-BK-XL</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9430292857110</id>
+    <published>2024-05-10T15:00:15-04:00</published>
+    <updated>2024-05-10T15:00:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/traitor-tee"/>
+    <title>TRAITOR TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/TRAITORTEE.png?v=1715197517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>240 GSM<br>100% COTTON<br>1 COLOR SCREEN PRINT<br>PRINTED NECK LABEL</p>
+<p>LIMITED TO 30 PCS</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9430292857110</id>
+      <title>SMALL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-TRAITOR-BK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9430292857110</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-TRAITOR-BK-M</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9430292857110</id>
+      <title>LARGE</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-TRAITOR-BK-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9430292857110</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-TRAITOR-BK-XL</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9218498134294</id>
+    <published>2024-03-21T23:46:02-04:00</published>
+    <updated>2024-03-21T23:46:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/copy-of-silk-road-tee-green-on-black"/>
+    <title>SILK ROAD TEE GREEN ON BLACK</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/silkroadtextgreenfront.png?v=1711075202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>240 GSM<br>100% COTTON<br>PRINTED NECK LABEL<br><br><strong><em>SHIPS IN 3-5 DAYS</em></strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9218498134294</id>
+      <title>SMALL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADGN-BK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9218498134294</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADGN-BK-M</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9218498134294</id>
+      <title>LARGE</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADGN-BK-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9218498134294</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADGN-BK-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9218497741078</id>
+    <published>2024-03-21T23:46:02-04:00</published>
+    <updated>2024-03-21T23:46:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/silk-road-tee-white-on-black"/>
+    <title>SILK ROAD TEE WHITE ON BLACK</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/silkroadtextwhitefront.png?v=1711075171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>240 GSM<br>100% COTTON<br>PRINTED NECK LABEL</p>
+<p><strong><em>SHIPS IN 3-5 DAYS</em></strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9218497741078</id>
+      <title>SMALL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADWT-BK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9218497741078</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADWT-BK-M</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9218497741078</id>
+      <title>LARGE</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADWT-BK-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9218497741078</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADWT-BK-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9218448785686</id>
+    <published>2024-03-21T23:46:01-04:00</published>
+    <updated>2024-03-21T23:46:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/silk-road-website-tee"/>
+    <title>SILK ROAD WEBSITE TEE</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/silkroadwebsitefront.png?v=1711070895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>240 GSM<br>100% COTTON<br>PRINTED NECK LABEL<br><br><strong><em>SHIPS IN 3-5 DAYS</em></strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9218448785686</id>
+      <title>SMALL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADWEB-BK-S</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9218448785686</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADWEB-BK-M</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9218448785686</id>
+      <title>LARGE</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADWEB-BK-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9218448785686</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>TEE-SILKROADWEB-BK-XL</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9175245652246</id>
+    <published>2024-03-05T19:54:00-05:00</published>
+    <updated>2024-03-05T19:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/ahenobarbus-zip-up"/>
+    <title>AHENOBARBUS ZIP UP</title>
+    <s:type>Zip Up</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/AHENOBARBUSZIPFRONT.png?v=1709684847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Zip Up<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">16X21 INCH DTG PRINT<br>INDEPENDENT IND4000Z BLANK<br>330GSM<br>70% COTTON / 30% POLYESTER<br><br><strong><em>SHIPS IN 3-5 DAYS</em></strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9175245652246</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>ZIP-AHENO-BK-S</s:sku>
+      <s:grams>709</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9175245652246</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>ZIP-AHENO-BK-M</s:sku>
+      <s:grams>737</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9175245652246</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>ZIP-AHENO-BK-L</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9175245652246</id>
+      <title>XL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>ZIP-AHENO-BK-XL</s:sku>
+      <s:grams>822</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9175244734742</id>
+    <published>2024-03-05T19:53:59-05:00</published>
+    <updated>2024-03-05T19:53:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/ahenobarbus-hoodie"/>
+    <title>AHENOBARBUS HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/AHENOBARBUSHOODIEFRONT.png?v=1709684602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">16X21 INCH DTG PRINT<br>INDEPENDENT 420XDC BLANK<br>420GSM<br>75% COTTON / 25% POLYESTER<br><br><strong><em>SHIPS IN 3-5 DAYS</em></strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9175244734742</id>
+      <title>SMALL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>HDY-AHENO-BK-S</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9175244734742</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>HDY-AHENO-BK-M</s:sku>
+      <s:grams>879</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9175244734742</id>
+      <title>LARGE</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>HDY-AHENO-BK-L</s:sku>
+      <s:grams>964</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9175244734742</id>
+      <title>XL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>HDY-AHENO-BK-XL</s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xyled.online/products/9175242998038</id>
+    <published>2024-03-05T19:53:58-05:00</published>
+    <updated>2024-03-05T19:53:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://xyled.online/products/ahenobarbus-shirt"/>
+    <title>AHENOBARBUS SHIRT</title>
+    <s:type>Tee</s:type>
+    <s:vendor>XYLED.ONLINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0694/7684/3798/files/AHENOBARBUSSHIRTFRONT.png?v=1709684720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XYLED.ONLINE<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p class="p1">16X21 INCH DTG PRINT<br>COMFORT COLORS 1717 BLANK<br>6.1 OZ<br>100% COTTON<br><br><strong><em>SHIPS IN 3-5 DAYS</em></strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xyled.online/products/9175242998038</id>
+      <title>SMALL</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-AHENO-BK-S</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9175242998038</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-AHENO-BK-M</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9175242998038</id>
+      <title>LARGE</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-AHENO-BK-L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xyled.online/products/9175242998038</id>
+      <title>XL</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TEE-AHENO-BK-XL</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+</feed>

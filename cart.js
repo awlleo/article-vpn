@@ -1,0 +1,1 @@
+{"token":"hWNIxH0mbzxLADMqqSjSlXSF?key=3b9ca0d574cc61b6dac52e5846911982","note":"","attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"CHF","items_subtotal_price":0,"cart_level_discount_applications":[],"discount_codes":[]}

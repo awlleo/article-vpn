@@ -1,0 +1,1 @@
+System.register([],function(t,e){"use strict";return{setters:[],execute:function(){t("t",t=>""===t?"":`${t.charAt(0).toLocaleUpperCase()+t.substring(1)}`)}}});
