@@ -1,0 +1,446 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- Стили оформления Aero (без изменений) -->
+  <link href="cdn/shop/t/86/assets/xyled-app75da.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="cdn/shop/t/86/assets/vista-aero0a8c.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="cdn/shop/t/86/assets/xyled-bridgefdfb.css" rel="stylesheet" type="text/css" media="all" />
+
+  <!-- JS темы: меню «Пуск», часы, аватар. Корзину и магазин оставили без данных -->
+  <script>window.VistaSfx = { enabled: false, volume: 0, sounds: {} };</script>
+  <script src="cdn/shop/t/86/assets/xyled-app6bd6.js" defer></script>
+
+  <style>
+  :root {
+    --aero-accent: #454545;
+    --aero-glass-tint: rgba(255, 255, 255, 0.1);
+    --aero-glass-tint-hover: rgba(255, 255, 255, 0.14);
+    --v-glass-blur: 5px;
+    --aero-cap-min: url("cdn/shop/t/86/assets/cap-min0c71.png");
+    --aero-cap-max: url("cdn/shop/t/86/assets/cap-maxa56f.png");
+    --aero-cap-close: url("cdn/shop/t/86/assets/cap-close2aeb.png");
+    --aero-glyph-min: url("cdn/shop/t/86/assets/glyph-min2c8c.png");
+    --aero-glyph-max: url("cdn/shop/t/86/assets/glyph-max2edb.png");
+    --aero-glyph-close: url("cdn/shop/t/86/assets/glyph-close49f3.png");
+    --aero-glass: url("cdn/shop/t/86/assets/glass5ab1.png");
+    --aero-toolbar-bg: linear-gradient(180deg, #e8e8e8 0%, #DBDBDB 46%, #d1d1d1 100%);
+  }
+
+  /* Серая цветовая схема: панель задач, меню «Пуск», окна */
+  .command-bar { background: linear-gradient(#eaeaea, #DBDBDB 55%, #cecece); }
+  .command-bar .command-link { color: #444444 !important; }
+  .command-bar .command-link:hover,
+  .command-bar .command-link:focus-visible {
+    background: linear-gradient(#ffffff, #ffffff) !important;
+    border-color: rgba(219, 219, 219, 0.85) !important;
+  }
+  .pm-window::after {
+    background-image: linear-gradient(rgba(241, 247, 252, 0), rgba(221, 235, 247, 0)) !important;
+  }
+  .vfav .menu-link:hover, .menu-link:hover, .sm-item:hover {
+    background: linear-gradient(180deg, #8f8f8f 0%, #5C5C5C 45%, #383838 55%, #707070 100%);
+    border-color: #9e9e9e;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), inset 0 0 0 1px rgba(255, 255, 255, 0.25), 0 0 16px rgba(128, 128, 128, 0.6);
+    color: #ffffff;
+  }
+  .vfav .menu-link:hover *, .menu-link:hover * { color: #ffffff; }
+  .window.modal-window .title-bar-text, .window.pm-window .title-bar-text,
+  .window.cart-drawer .title-bar-text { color: #000000 !important; }
+  .eb-crumb > a:hover, .eb-crumb > span:last-child:hover {
+    color: #000000;
+    background: linear-gradient(180deg, #ababab 0%, #979797 48%, #878787 49%, #787878 100%);
+    border-color: #5f5f5f;
+  }
+  .eb-crumb > a:active, .eb-crumb > span:last-child:active {
+    background: linear-gradient(180deg, #7d7d7d 0%, #6b6b6b 48%, #616161 49%, #707070 100%);
+    border-color: #454545;
+  }
+  .eb-search:hover, .eb-search:focus-within {
+    border-color: #454545;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.95), 0 0 5px rgba(120, 120, 120, 0.55);
+  }
+  .section-eyebrow { color: #454545 !important; }
+
+  /* Цвета текста */
+  [class*="text-[#003399]"], [class*="text-[#152636]"], .section-title { color: #000000 !important; }
+  .window-body { color: #000000; }
+  [class*="text-[#444]"], [class*="text-[#41525f]"], [class*="text-[#1b2c3a]"], [class*="text-[#26333f]"],
+  .text-black { color: #000000 !important; }
+  [class*="text-[#2d61cb]"], .command-link, .eb-crumb > a, .eb-crumb > span:last-child, .vpage-content a { color: #000000 !important; }
+  [class*="text-[#737373]"], .text-slate-500 { color: #000000 !important; }
+  .window .title-bar-text { color: #FFFFFF !important; }
+  .title-bar-text, .window .title-bar-text { text-shadow: none !important; }
+  .window::before, .aero-window::before, .cart-drawer::before,
+  .modal-window::before, .pm-window::before {
+    border-color: rgba(255, 255, 255, 0.95) #FFFFFF #FFFFFF rgba(255, 255, 255, 0.8) !important;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.4) !important;
+  }
+  </style>
+</head>
+
+<!------------------------------------------------------------------------------ separator ------------------------------------------------------------------------------>
+<body data-aero-hover="vibrant">
+<div class="aero-desktop-bg" aria-hidden="true"></div>
+<div class="aero-desktop-glare" aria-hidden="true"></div>
+<style>
+.aero-desktop-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-color: #0a2547;
+  background-image: url("cdn/imanges/wlpp.png?width=1920");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aero-desktop-glare {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 18% 22%, rgba(255, 255, 255, .18), transparent 38%),
+    linear-gradient(180deg, rgba(6, 28, 52, .04), rgba(4, 20, 40, 0.22));
+}
+</style>
+
+<div class="page-wrapper">
+<div id="header-group">
+
+<!-- Панель задач: начало -->
+<div id="shopify-section-sections--28492643795222__vista_taskbar" class="shopify-section shopify-section-group-header-group">
+  <header class="site-topbar z-50">
+  <div class="mx-auto flex h-full w-full max-w-none items-center justify-between gap-2 px-2">
+
+  <a class="start-button group" href="index.html">
+  <img class="start-chan start-face--mobile" src="cdn/imanges/menu.png?width=132" alt="" width="44" height="44">
+  <img class="start-chan start-face" src="cdn/imanges/home-pc.png" alt="" width="44" height="44">
+  <span class="hidden items-baseline leading-none md:flex">
+  <span class="text-[15px] font-black text-white"></span>
+  <span class="text-[11px] font-bold text-slate-300"></span>
+  </span>
+  </a>
+
+  <nav class="taskbar-programs hidden min-w-0 flex-1 items-center gap-1 md:flex" aria-label="Quick links">
+    <a class="taskbar-button" href="index.html"><img alt="" class="win-icon size-4" draggable="false" height="32" width="32" src="cdn/imanges/home-pc.png"> Доклад</a>
+    <a class="taskbar-button" href="text.html"><img alt="" class="win-icon size-4" draggable="false" height="32" width="32" src="cdn/imanges/article.png">Текст статьи</a>
+  </nav>
+
+  <div class="taskbar-tray flex items-center gap-1">
+  <span class="taskbar-clock">
+  <span data-taskbar-time>12:08 PM</span>
+  <span data-taskbar-date>11/09/2026</span>
+  </span>
+  </div>
+
+  </div>
+  </header>
+<!-- Меню пуск: начало -->
+<nav class="start-menu" data-start-menu hidden aria-label="Start menu">
+  <div class="sm-avatar">
+  <img src="cdn/imanges/vista-avatar-1.jpg" alt="" width="48" height="48" data-sm-avatar data-avatars="cdn/imanges/vista-avatar-2.jpg|cdn/imanges/vista-avatar-3.jpg|cdn/imanges/vista-avatar-4.jpg|cdn/imanges/vista-avatar-5.jpg|cdn/imanges/vista-avatar-6.jpg|cdn/imanges/vista-avatar-7.jpg|cdn/imanges/vista-avatar-8.jpg|cdn/imanges/vista-avatar-9.jpg|">
+  </div>
+  <div class="sm-body">
+  <div class="sm-left">
+  <div class="sm-programs">
+  <a class="sm-item" href="index.html">
+  <img alt="" class="win-icon size-6" draggable="false" height="32" width="32" src="cdn/imanges/home-pc.png">
+  <span class="sm-text"><b>Этот доклад</b></span>
+  </a>
+  <a class="sm-item" href="text.html">
+  <img alt="" class="win-icon size-6" draggable="false" height="32" width="32" src="cdn/imanges/article.png">
+  <span class="sm-text"><b>Текст статьи</b></span>
+  </a>
+  </div>
+  <div class="sm-sep"></div>
+  </div>
+  <div class="sm-right">
+  <span class="sm-user">user</span>
+  </div>
+  </div>
+  <div class="sm-footer">
+    <button class="sm-btn sm-btn--close" data-start-close type="button" aria-label="Close menu">
+    <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round">
+    <path d="m7 7 10 10M17 7 7 17"/>
+    </svg>
+    </button>
+  </div>
+</nav>
+<!-- Меню пуск: конец -->
+
+<style>
+.site-topbar {
+  background:
+    linear-gradient(180deg,
+      rgba(255, 255, 255, 0.18) 0,
+      rgba(255, 255, 255, 0.05) 8%,
+      rgba(0, 0, 0, 0) 30%,
+      rgba(0, 0, 0, 0) 50%,
+      rgba(255, 255, 255, 0.25) 100%),
+    rgba(2, 4, 8, 0.88);
+  border-top: 1px solid rgba(255, 255, 255, 0.45);
+}
+.taskbar-button {
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.22) 0,
+    rgba(255, 255, 255, 0.07) 49%,
+    rgba(255, 255, 255, 0.02) 51%,
+    rgba(255, 255, 255, 0.12) 100%);
+}
+.taskbar-button:hover,
+.taskbar-button:focus-visible {
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.32) 0,
+    rgba(255, 255, 255, 0.10) 49%,
+    rgba(255, 255, 255, 0.08) 51%,
+    rgba(255, 255, 255, 0.3) 100%);
+  border-color: rgba(255, 255, 255, 0.75);
+  box-shadow:
+    inset 0 1px rgba(255, 255, 255, 0.5),
+    inset 0 0 14px rgba(255, 255, 255, 0.35),
+    0 0 14px rgba(255, 255, 255, 0.4);
+}
+.start-orb {
+  background: radial-gradient(circle at 36% 26%, #fff 0 7%, #ffffff 16%, #ffffff 42%, #c7c7c7 72%, #9e9e9e);
+  box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.9),
+    inset 0 -5px 9px rgba(0, 0, 0, 0.55),
+    0 1px 3px rgba(0, 0, 0, 0.55),
+    0 0 16px rgba(255, 255, 255, 0.6);
+}
+.start-button:hover .start-orb { box-shadow: inset 0 1px 2px rgba(255,255,255,.9), 0 0 22px rgba(255, 255, 255, 0.85); }
+.start-chan, .start-face img { filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.7)); }
+.start-button:hover .start-chan,
+.start-button:hover .start-face img { filter: drop-shadow(0 1px 8px rgba(255, 255, 255, 0.9)); }
+.sm-right { background: linear-gradient(180deg, #434343, #202020); }
+.sm-right, .sm-place, .sm-all, .sm-user { color: #cdcdcd; }
+.sm-sep-r { background: rgba(205, 205, 205, 0.28); }
+.start-menu {
+  background: linear-gradient(180deg, #4e4e4e, #1a1a1a);
+  border-color: #6c6c6c;
+}
+</style>
+</div>
+<!-- Панель задач: конец -->
+
+</div>
+
+<!-- Место для окна: начало -->
+  <main id="MainContent" class="content-for-layout" role="main" data-template="page.portal-policy">
+    <section id="shopify-section-template--28492643631382__main" class="shopify-section">
+      <div class="vista-desktop relative z-20 mx-auto flex w-full max-w-[1220px] flex-col gap-4 px-3 py-4 sm:px-5">
+        <div class="window glass dark-glass" style="max-width: 960px; margin-inline: auto; width: 100%;">
+          <div class="title-bar">
+            <div class="title-bar-text">
+              <img alt="" class="win-icon size-4" draggable="false" height="32" width="32" src="cdn/imanges/article.png">
+              Статья
+            </div>
+            <div class="title-bar-controls">
+              <button aria-label="Minimize" type="button"></button>
+              <button aria-label="Maximize" type="button"></button>
+              <button aria-label="Close" data-close-url="index.html" type="button"></button>
+            </div>
+          </div>
+          <div class="aero-toolbar-group">
+            <div class="explorer-bar">
+              <div class="eb-nav">
+                <button aria-label="Back" class="eb-back eb-btn eb-blue" data-nav="back" type="button"></button>
+                <span class="eb-fwd eb-off eb-grey" aria-hidden="true"></span>
+                <span class="eb-recent" aria-hidden="true"></span>
+              </div>
+              <div class="eb-address">
+                <img alt="" class="win-icon eb-loc-icon" draggable="false" height="32" width="32" src="cdn/imanges/article.png">
+                <span class="eb-crumbs"><span class="eb-crumb">
+                  <a href="index.html">
+                  Локальный диск (С:)
+                  </a>
+                </span>
+                <span class="eb-crumb"></span>
+                <span class="eb-sep" aria-hidden="true"></span>
+                <span>
+                  Статья
+                </span></span></span>
+                <span class="eb-drop" aria-hidden="true"></span>
+                <span class="eb-refresh" aria-hidden="true"></span>
+              </div>
+              <div class="eb-search">
+                <span>
+                  Поиск файлов
+                </span>
+                <span class="eb-mag" aria-hidden="true"></span>
+              </div>
+            </div>
+            <div class="command-bar" aria-label="Page actions">
+                <a class="command-link" href="../collections/all.html">  
+                  <img alt="" class="win-icon size-4" draggable="false" height="32" width="32" src="cdn/imanges/win-folder.png">
+                  Каналы связи (заменить ссылку на актуальную)
+                </a>
+            </div>
+          </div>
+          <div class="window-body has-space">
+              <h2 class="font-black text-[#003399]">УДК 004.056:65.012.8</h2>
+              <div class="vfaq-list">
+              <section class="vpage-text vpage-content">
+                <h2 style="text-align:center;">ЗАЩИЩЁННЫЕ КОРПОРАТИВНЫЕ СЕТИ И ШИФРОВАННЫЕ КАНАЛЫ СВЯЗИ КАК ФАКТОР НЕПРЕРЫВНОСТИ БИЗНЕС-ПРОЦЕССОВ И ЭКОНОМИЧЕСКОЙ БЕЗОПАСНОСТИ ПРЕДПРИЯТИЯ</h2>
+                <p><strong>Докладчик: Ятченя Роман Вячеславович, студент<br>Научный руководитель: Брит Анна Александровна, кандидат физико-математических наук, доцент<br></strong>Красноярский государственный аграрный университет, Красноярск, Россия<br>metodist_econom@kgau.ru<br>anyaduzh@ya.ru</p>
+                <p><b>Аннотация.</b> Рассмотрена связь между защищённостью каналов передачи данных и экономической устойчивостью предприятия. Обобщены модели угроз для корпоративных сетей, сопоставлены IPsec, OpenVPN, WireGuard и Tailscale/Headscale, предложен подход к оценке эффективности защиты через снижение ожидаемых потерь от простоя. Показано, что затраты на защиту следует соотносить с ожидаемым ущербом.</p>
+                <p><b>Ключевые слова:</b> экономическая безопасность, информационная безопасность, корпоративная сеть, VPN, шифрование, аутентификация, непрерывность бизнеса, модель угроз, IPsec, WireGuard, Tailscale, Headscale, оценка рисков</p>
+                <p style="text-align:center;"><b>Введение</b></p>
+                <p> Современные предприятия всё сильнее зависят от непрерывной работы информационных систем: учёт, логистика, удалённое обслуживание оборудования, взаимодействие с контрагентами и банками происходят по сетевым каналам, часть которых проходит через общедоступные сети. В этих условиях компрометация или недоступность канала связи из технической проблемы превращается в экономическую: простои, штрафы и потеря доверия контрагентов, напрямую снижает экономическую безопасность субъекта. По оценкам Сбера, при сохранении текущих тенденций ущерб экономики от кибератак за восемь месяцев 2025 г. мог составить около 1,5 трлн руб. [1]. За этот период число атак на российский бизнес выросло втрое по сравнению с предыдущим годом, не менее 53% компаний подверглись атакам, и восемь из десяти из них столкнулись с серьёзными последствиями [2]. По данным Positive Technologies, доля атак с применением шифровальщиков в 2025 г. выросла с 23 до 33%, а стоимость одного такого инцидента для российской организации может достигать 1,5 млрд руб. [3]. Показательна атака на «Аэрофлот» в июле 2025 г., повлёкшая массовые задержки и отмены рейсов [4]: отказ информационной инфраструктуры немедленно остановил основной бизнес-процесс.</p><p style="text-align:center;"><b>Цель работы</b></p><p> Обосновать выбор мер защиты корпоративных сетей и зашифрованных каналов связи с учётом их влияния на непрерывность бизнес-процессов и оценить экономическую эффективность этих мер. Задачи: описать модель угроз при передаче данных по открытым и удалённым каналам; сопоставить типовые решения для шифрования каналов; предложить подход к экономической оценке защиты.</p><p style="text-align:center;"><b>Нормативные требования и модель угроз</b></p><p>Требования к защите каналов связи задают отраслевые и общие нормы. Для финансовых организаций применяется ГОСТ Р 57580.1-2017, вводящий три уровня защиты информации (минимальный, стандартный и усиленный) и привязывающий их к контурам безопасности, то есть к группам систем, обслуживающих процессы одинаковой критичности[5]. Для субъектов критической информационной инфраструктуры обязательные требования установлены Федеральным законом № 187-ФЗ [6]. Идеи контуров безопасности применима и к предприятиям АПК: каналы, по которым передаются платёжные и учётные данные, целесообразно выделять в отдельный контур с более строгими мерами защиты. <br>Модель угроз при передаче коммерческих и финансовых данных включает перехват трафика в открытых и беспроводных сетях; MitM-атаки (человек посередине), при которых злоумышленник подменяет узел и получает доступ к содержимому сеанса; несанкционированный доступ к внутренним ресурсам через скомпрометированные учётные записи удалённых сотрудников; отказ в обслуживании (DDoS). По данным УЦСБ SOC, в 2025 г. число DDoS-атак на сетевом уровне выросло на 24,18%, а мощность самой крупной достигла 1,57 Тбит/с [7]. Каждой угрозе соответствует нарушаемое свойство информации и бизнес-последствие: перехват и MitM нарушают конфиденциальность и целостность, что ведёт к утечке данных и подмене платёжных реквизитов; DDoS нарушает доступность, что ведёт к простою.</p><p style="text-align:center;"><b>Меры защиты каналов связи</b></p><p>Базовый комплекс мер строится по принципу эшелонирования. Во-первых, применяется шифрование каналов с взаимной аутентификацией узлов, что исключает возможность перехвата или подмену одной из сторон. Во-вторых, сеть сегментируется, а доступ разграничивается по принципу наименьших привилегий: сотрудники получают доступ только к необходимым ресурсам. В-третьих, для удалённого доступа используется многофакторная аутентификация, снижающая риск применения украденных паролей. В-четвёртых, организуются мониторинг событий и резервирование каналов: второй канал с автоматическим переключением превращает отказ одного провайдера из остановки бизнеса в штатное событие.</p><p style="text-align:center;"><b>Сравнение решений для шифрования каналов</b></p><p>Для шифрования каналов чаще всего применяются IPsec, OpenVPN и WireGuard (табл. 1). IPsec описывается архитектурой, стандартизованной IETF, работает на сетевом уровне и поддерживается как операционными системами, так и сетевым оборудованием, поэтому подходит для постоянных межофисных соединений [8]. OpenVPN работает на прикладном уровне поверх TLS, допускает TCP и UDP в качестве транспорта и отличается гибкостью настройки. WireGuard характеризуется компактной кодовой базой и фиксированным набором современных криптографических примитивов [9]; в экспериментальном исследовании отмечено, что он существенно упрощает настройку и управление ключами и может дополнять IPsec в промышленных сетях [10]. Отдельного внимания заслуживает Tailscale – управляемый сервис на основе WireGuard. В нём выделены плоскость управления, которую обслуживает сервис координации (проверка удостоверений и устройств, политики доступа, раздача адресов и ключей), и плоскость данных, где устройства сами устанавливают туннели WireGuard; пользовательский трафик через сервис координации не проходит [11]. Доступ по умолчанию запрещён и разрешается только политиками, что соответствует принципам наименьших привилегий и нулевого доверия [12]. Для непрерывности важно, что при недоступности сервиса координации устройства сохраняют установленные соединения и кэшированные политики, но не могут создавать новые соединения и получать обновления политик [11]. Зависимость от внешнего сервиса снимается самостоятельным размещением: проект Headscale с открытым исходным кодом реализует сервер управления, совместимый с Tailscale, но рассчитан на одну сеть и применение в небольших организациях [13].</p>
+                <p style="text-align:center;"><b>Таблица 1 – Сравнение протоколов шифрования каналов связи</b></p>
+                <table style="width: 100%; border-collapse: collapse; table-layout: fixed; font-family: sans-serif; font-size: 14px;">
+                  <thead>
+                    <tr style="background-color: #f3f6fa; text-align: left;">
+                      <th style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Критерий</th>
+                      <th style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">IPsec (IKEv2)</th>
+                      <th style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">OpenVPN</th>
+                      <th style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">WireGuard</th>
+                      <th style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Tailscale / Headscale</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Уровень работы</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Сетевой</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Прикладной, на основе TLS</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Сетевой, туннель поверх UDP</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">WireGuard</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Аутентификация и ключи</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Предварительные ключи или сертификаты</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Сертификаты X.509, ключи, учётные данные</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Обмен открытыми ключами узлов</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Вход через внешнего поставщика удостоверений; открытые ключи раздаёт сервер координации</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Гибкость набора алгоритмов</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Широкий выбор алгоритмов</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Широкий выбор алгоритмов</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Фиксированный набор, ГОСТ не поддерживается</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">WireGuard, ГОСТ не поддерживается</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Сервер координации</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Не требуется</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Центральный VPN-сервер</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Ручная настройка узлов</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Сервер Tailscale или собственный сервер Headscale</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Сложность настройки</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Высокая</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Средняя</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Низкая</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Низкая</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <p>Выбор определен техническими характеристиками, и регуляторными требованиями. При необходимости криптографической защиты с применением отечественных алгоритмов, например, блочного шифра «Кузнечик» по ГОСТ Р 34.12-2015 [14], используются сертифицированные средства криптографической защиты информации, а решения с фиксированным набором алгоритмов, к которым относятся WireGuard и построенные на нём Tailscale и Headscale, неприменимы. При использовании сервиса производителя следует также учитывать, что сервис координации хранит открытые ключи устройств и политики доступа [11], и оценивать связанные с этим риски, в том числе юридические. В остальных случаях для средних сетей WireGuard целесообразен благодаря простоте эксплуатации: меньшая сложность означает меньше ошибок конфигурации.</p><p style="text-align:center;"><b>Экономическая оценка защиты</b></p><p>Экономическую эффективность защиты каналов связи можно оценить, сопоставляя затраты на защиту с ожидаемыми потерями от простоя. Потери от одного инцидента определяются как L = T × (В + З), где T – длительность простоя в ч.; В – недополученная маржа в час, руб.; З – прочие затраты на простой и восстановление в час, руб. Ожидаемые годовые потери составляют Э = P × L, где P – вероятность инцидента в год. Эффективность защиты оценивается показателем возврата инвестиций в безопасность ROSI = ((P₀ − P₁) × L − C) / C, где P₀ и P₁ – вероятность инцидента без защиты и с ней, C – годовые затраты на защиту, включая лицензии, оборудование и обслуживание [15]. Значение ROSI больше нуля означает, что снижение ожидаемых потерь превышает затраты на защиту.</p><p style="text-align:center;"><b>Таблица 2 – Условный расчёт эффективности защиты каналов связи</b></p>
+                <table style="width: 100%; border-collapse: collapse; table-layout: fixed; font-family: sans-serif; font-size: 14px;">
+                  <thead>
+                    <tr style="background-color: #f3f6fa;">
+                      <th style="width: 56%; border: 1px solid #d0d7de; padding: 10px; text-align: left; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Показатель</th>
+                      <th style="width: 22%; border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Без защиты</th>
+                      <th style="width: 22%; border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">С защитой</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: left; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Потери от одного инцидента L (12 ч × 60 тыс. руб./ч), тыс. руб.</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">720</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">720</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: left; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Вероятность инцидента в год P</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">0,30</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">0,05</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: left; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Ожидаемые годовые потери Э, тыс. руб.</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">216</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">36</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: left; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Годовые затраты на защиту C, тыс. руб.</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">0</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">90</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: left; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Снижение ожидаемых потерь, тыс. руб.</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">–</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">180</td>
+                    </tr>
+                    <tr style="background-color: #f9fbfd; font-weight: bold;">
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: left; white-space: normal; overflow-wrap: break-word; vertical-align: top;">Показатель ROSI</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">–</td>
+                      <td style="border: 1px solid #d0d7de; padding: 10px; text-align: right; white-space: normal; overflow-wrap: break-word; vertical-align: top;">1,0 (100%)</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <p>Из расчёта следует, что основная часть потерь определяется не стоимостью средства защиты, а длительностью простоя и маржой остановленного процесса. Поэтому экономическое обоснование защиты может быть особенно убедительным для предприятий с высокой стоимостью часа простоя.</p><p style="text-align:center;"><b>Выводы</b></p><p>Защищённость каналов связи является элементом экономической безопасности предприятия, поскольку нарушение конфиденциальности, целостности или доступности данных ведёт к простою и прямым финансовым потерям. Модель угроз должна учитывать перехват трафика, MitM-атаки, несанкционированный доступ и DDoS, а защита – строиться эшелонированно: шифрование с аутентификацией, сегментация, многофакторная аутентификация, резервирование каналов. Выбор между IPsec, OpenVPN, WireGuard и решениями на его основе (Tailscale, Headscale) определяется масштабом сети, требуемой гибкостью и регуляторными требованиями, в частности необходимостью применения сертифицированных средств криптографической защиты. Эффективность мер целесообразно оценивать через снижение ожидаемых потерь от простоя и показатель ROSI.</p>
+                <p style="text-align:center;"><b>Список литературы</b></p>
+                <ol>
+                  <li>Сбер оценил ущерб от кибератак для российской экономики // Эксперт : сайт. – 2025. – URL: <a href="https://expert.ru/news/v-sbere-otsenili-ushcherb-ot-kiberatak-dlya-rossiyskoy-ekonomiki/" target="_blank" rel="noopener noreferrer">https://expert.ru/news/v-sbere-otsenili-ushcherb-ot-kiberatak-dlya-rossiyskoy-ekonomiki/</a> (дата обращения: 30.10.2026). – Текст : электронный.</li>
+                  <li>Рост числа кибератак на российский бизнес в 2025 году // SecurityLab.ru : сайт. – 2025. – URL: <a href="https://www.securitylab.ru/news/563211.php" target="_blank" rel="noopener noreferrer">https://www.securitylab.ru/news/563211.php</a> (дата обращения: 03.11.2026). – Текст : электронный.</li>
+                  <li>До 1,5 млрд рублей: столько может стоить российской компании атака шифровальщика // SecurityLab.ru : сайт. – URL: <a href="https://www.securitylab.ru/news/578732.php" target="_blank" rel="noopener noreferrer">https://www.securitylab.ru/news/578732.php</a> (дата обращения: 30.10.2026). – Текст : электронный.</li>
+                  <li>Киберстрахование: как россияне научились не бояться хакеров // SecurityLab.ru : сайт. – 2025. – URL: <a href="https://www.securitylab.ru/analytics/563864.php" target="_blank" rel="noopener noreferrer">https://www.securitylab.ru/analytics/563864.php</a> (дата обращения: 30.10.2026). – Текст : электронный.</li>
+                  <li>ГОСТ Р 57580.1-2017. Безопасность финансовых (банковских) операций. Защита информации финансовых организаций. Базовый набор организационных и технических мер : национальный стандарт Российской Федерации : утвержден и введен в действие Приказом Федерального агентства по техническому регулированию и метрологии от 8 августа 2017 г. № 822-ст : дата введения 2018-01-01. – Москва : Стандартинформ, 2017. – Текст : непосредственный.</li>
+                  <li>О безопасности критической информационной инфраструктуры Российской Федерации : Федеральный закон от 26.07.2017 № 187-ФЗ // Собрание законодательства Российской Федерации. – 2017. – № 31 (ч. I). – Ст. 4736. – Текст : непосредственный.</li>
+                  <li>1,6 млрд записей. 51 секунда на взлом. 357% рост атак на промсектор. Это не антирекорды – это Россия в 2025-м // SecurityLab.ru : сайт. – 2026. – URL: <a href="https://www.securitylab.ru/news/573138.php" target="_blank" rel="noopener noreferrer">https://www.securitylab.ru/news/573138.php</a> (дата обращения: 30.10.2026). – Текст : электронный.</li>
+                  <li>Kent, S. Security Architecture for the Internet Protocol (RFC 4301) / S. Kent, K. Seo. – Text : electronic // IETF : site. – 2005. – URL: <a href="https://www.rfc-editor.org/rfc/rfc4301" target="_blank" rel="noopener noreferrer">https://www.rfc-editor.org/rfc/rfc4301</a> (дата обращения: 30.10.2026).</li>
+                  <li>Donenfeld, J. A. WireGuard: Next Generation Kernel Network Tunnel / J. A. Donenfeld // Proceedings of the 2017 Network and Distributed System Security Symposium (NDSS). – San Diego, 2017. – URL: <a href="https://www.wireguard.com/papers/wireguard.pdf" target="_blank" rel="noopener noreferrer">https://www.wireguard.com/papers/wireguard.pdf</a> (дата обращения: 28.30.2026).</li>
+                  <li>Lightweight Security for Private Networks: Real-World Evaluation of WireGuard. – Text : electronic // arXiv : site. – 2025. – URL: <a href="https://arxiv.org/pdf/2512.10135" target="_blank" rel="noopener noreferrer">https://arxiv.org/pdf/2512.10135</a> (дата обращения: 28.30.2026).</li>
+                  <li>Control and data planes // Tailscale Docs : site. – URL: <a href="https://tailscale.com/docs/concepts/control-data-planes" target="_blank" rel="noopener noreferrer">https://tailscale.com/docs/concepts/control-data-planes</a> (дата обращения: 28.30.2026). – Text : electronic.</li>
+                  <li>Access control // Tailscale Docs : site. – URL: <a href="https://tailscale.com/docs/features/access-control" target="_blank" rel="noopener noreferrer">https://tailscale.com/docs/features/access-control</a> (дата обращения: 28.30.2026). – Text : electronic.</li>
+                  <li>Headscale: an open source, self-hosted implementation of the Tailscale control server : repository // GitHub : site. – URL: <a href="https://github.com/juanfont/headscale" target="_blank" rel="noopener noreferrer">https://github.com/juanfont/headscale</a> (дата обращения: 28.30.2026). – Text : electronic.</li>
+                  <li>ГОСТ Р 34.12-2015. Информационная технология. Криптографическая защита информации. Блочные шифры : национальный стандарт Российской Федерации. – Москва : Стандартинформ, 2015. – Текст : непосредственный.</li>
+                  <li>Sonnenreich, W. Return on Security Investment (ROSI) – A Practical Quantitative Model / W. Sonnenreich, J. Albanese, B. Stout // Journal of Research and Practice in Information Technology. – 2006. – Vol. 38, № 1. – P. 45–56.</li>
+                </ol>
+              </section>
+              </div>
+          </div>
+          <div class="window-footer vshop-statusbar">
+              <span class="flex items-center gap-2"><img alt="" class="win-icon size-4" draggable="false" height="32" width="32" src="../cdn/shop/t/86/assets/win-infoe5e9.png">
+                Ятченя Роман Вячеславович
+              </span>
+              <span>
+                Э-39.2-24о
+              </span>
+          </div>
+        </div>
+      </div>
+      <style>
+        /* no mascot on info/contact pages */
+        .peek-mascot,
+        .peek-mascot-grip { display: none !important; }
+      </style>
+    </section>
+  </main>
+<!-- Место для окна: конец -->
+
+<!-- Рабочий стол: начало -->
+<footer>
+  <div id="shopify-section-sections--28492643762454__vista_desktop_chrome" class="shopify-section shopify-section-group-footer-group">
+    <div class="desktop-icons">
+      <a class="desktop-icon" href="index.html">
+        <img alt="" class="win-icon size-10" draggable="false" height="32" width="32" src="cdn/imanges/home-pc.png">
+        <span>Этот доклад</span>
+      </a>
+      <a class="desktop-icon" href="text.html">
+        <img alt="" class="win-icon size-10" draggable="false" height="32" width="32" src="cdn/imanges/article.png">
+        <span>Текст Статьи</span>
+      </a>
+    </div>
+  </div>
+</footer>
+<!-- Рабочий стол: конец -->
+
+</div>
+
+</body>
+</html>
