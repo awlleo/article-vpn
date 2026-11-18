@@ -2,37 +2,21 @@
 <html lang="ru">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Доклад</title>
-
-  <!-- Стили темы Aero -->
-  <link href="../cdn/shop/t/86/assets/xyled-app75da.css" rel="stylesheet" type="text/css" media="all" />
-  <link href="../cdn/shop/t/86/assets/vista-aero0a8c.css" rel="stylesheet" type="text/css" media="all" />
-  <link href="../cdn/shop/t/86/assets/xyled-bridgefdfb.css" rel="stylesheet" type="text/css" media="all" />
-  <!-- Серая схема, фон, панель задач, меню «Пуск» -->
-  <link href="shell.css" rel="stylesheet" type="text/css" media="all" />
-
-  <!-- JS темы: меню «Пуск», часы, аватар (defer: выполнится после сборки оболочки shell.js) -->
-  <script src="../cdn/shop/t/86/assets/xyled-app6bd6.js" defer></script>
+  <!-- Все стили (тема Aero, серая схема, панель задач) подключает shell.css -->
+  <link href="shell.css" rel="stylesheet">
 </head>
 
 <body data-aero-hover="vibrant">
 <div class="page-wrapper">
 
-<!-- Панель задач и меню «Пуск» собирает shell.js -->
-<div id="header-group"></div>
-
 <!-- Место для окна: начало -->
 <!-- Сюда вставляется окно с текстом доклада -->
 <!-- Место для окна: конец -->
 
-<!-- Рабочий стол собирает shell.js -->
-<footer id="desktop-footer"></footer>
-
 </div>
-
-<!-- Сборка оболочки: фон + панель задач + «Пуск» + рабочий стол -->
+<!-- Оболочка (фон, панель задач, «Пуск», рабочий стол) и скрипт темы -->
 <script src="shell.js"></script>
 </body>
 </html>

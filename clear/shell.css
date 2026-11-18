@@ -1,3 +1,8 @@
+/* Стили темы Aero (подключаются первыми, чтобы остальные правила их переопределяли) */
+@import url("../cdn/shop/t/86/assets/xyled-app75da.css");
+@import url("../cdn/shop/t/86/assets/vista-aero0a8c.css");
+@import url("../cdn/shop/t/86/assets/xyled-bridgefdfb.css");
+
 /* Тема: серая схема Aero (бывший <style> в <head>) */
   :root {
     --aero-accent: #454545;

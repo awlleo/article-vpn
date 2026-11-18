@@ -1,14 +1,18 @@
 /* Общая «оболочка» страниц: фон рабочего стола, панель задач, меню «Пуск», иконки на рабочем столе.
    Страница (empty.html) содержит только окно с контентом; всё остальное собирается здесь.
-   Скрипт подключается синхронно в конце <body>, поэтому оболочка появляется ДО скрипта темы (defer). */
+   Скрипт стоит в конце <body>: собирает оболочку, затем подключает скрипт темы. */
 (function () {
   'use strict';
 
   /* ---------- Настройки ---------- */
   var ASSETS = '../cdn/imanges/';   // картинки, относительно страницы в папке clear/
-  var PAGES = [                     // единый список: панель задач + «Пуск» + рабочий стол
-    { href: '../index.html', icon: 'home-pc.png', taskbar: 'Доклад',        menu: 'Этот доклад',  desktop: 'Этот доклад'  },
-    { href: '../text.html',  icon: 'article.png', taskbar: 'Текст статьи', menu: 'Текст статьи', desktop: 'Текст Статьи' }
+  var PAGES = [                     // единый список; нет поля taskbar/menu — пункт только на рабочем столе
+    { href: '../index.html',     icon: 'home-pc.png',  taskbar: 'Доклад',        menu: 'Этот доклад',  desktop: 'Этот доклад'   },
+    { href: '../text.html',      icon: 'article.png',  taskbar: 'Текст статьи', menu: 'Текст статьи', desktop: 'Текст Статьи'  },
+    { href: '../tailscale.html', icon: 'Tailscale.png',                                                desktop: 'Tailscale.exe' },
+    { href: '../wg.html',        icon: 'wg.png',                                                       desktop: 'WireGuard.exe' },
+    { href: '../openvpn.html',   icon: 'openvpn.png',                                                  desktop: 'OpenVPN.exe'   },
+    { href: '../ipsec.html',     icon: 'IPsec.png',                                                    desktop: 'ipsec.exe'     }
   ];
 
   var AVATARS = [2, 3, 4, 5, 6, 7, 8, 9].map(function (n) { return ASSETS + 'vista-avatar-' + n + '.jpg|'; }).join('');
@@ -18,13 +22,13 @@
 
   /* ---------- Шаблоны ---------- */
   function taskbarLinks() {
-    return PAGES.map(function (p) {
+    return PAGES.filter(function (p) { return p.taskbar; }).map(function (p) {
       return '<a class="taskbar-button" href="' + p.href + '"><img alt="" class="win-icon size-4" draggable="false" height="32" width="32" src="' + ASSETS + p.icon + '"> ' + p.taskbar + '</a>';
     }).join('\n    ');
   }
 
   function menuItems() {
-    return PAGES.map(function (p) {
+    return PAGES.filter(function (p) { return p.menu; }).map(function (p) {
       return '<a class="sm-item" href="' + p.href + '">\n' +
         '  <img alt="" class="win-icon size-6" draggable="false" height="32" width="32" src="' + ASSETS + p.icon + '">\n' +
         '  <span class="sm-text"><b>' + p.menu + '</b></span>\n' +
@@ -97,7 +101,13 @@
     '  </div>';
 
   /* ---------- Сборка ---------- */
+  var wrapper = document.querySelector('.page-wrapper');
   document.body.insertAdjacentHTML('afterbegin', BACKGROUND);
-  document.getElementById('header-group').innerHTML = HEADER;
-  document.getElementById('desktop-footer').innerHTML = FOOTER;
+  wrapper.insertAdjacentHTML('afterbegin', '<div id="header-group">' + HEADER + '</div>');
+  wrapper.insertAdjacentHTML('beforeend', '<footer>' + FOOTER + '</footer>');
+
+  /* ---------- JS темы: меню «Пуск», часы, аватар (после сборки оболочки) ---------- */
+  var theme = document.createElement('script');
+  theme.src = '../cdn/shop/t/86/assets/xyled-app6bd6.js';
+  document.body.appendChild(theme);
 })();
