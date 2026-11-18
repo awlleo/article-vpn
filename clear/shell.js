@@ -6,13 +6,10 @@
 
   /* ---------- Настройки ---------- */
   var ASSETS = '../cdn/imanges/';   // картинки, относительно страницы в папке clear/
-  var PAGES = [                     // единый список; нет поля taskbar/menu — пункт только на рабочем столе
-    { href: '../index.html',     icon: 'home-pc.png',  taskbar: 'Доклад',        menu: 'Этот доклад',  desktop: 'Этот доклад'   },
-    { href: '../text.html',      icon: 'article.png',  taskbar: 'Текст статьи', menu: 'Текст статьи', desktop: 'Текст Статьи'  },
-    { href: '../tailscale.html', icon: 'Tailscale.png',                                                desktop: 'Tailscale.exe' },
-    { href: '../wg.html',        icon: 'wg.png',                                                       desktop: 'WireGuard.exe' },
-    { href: '../openvpn.html',   icon: 'openvpn.png',                                                  desktop: 'OpenVPN.exe'   },
-    { href: '../ipsec.html',     icon: 'IPsec.png',                                                    desktop: 'ipsec.exe'     }
+  var PAGES = [                     // единый список: панель задач + «Пуск» + рабочий стол
+    { href: '../index.html', icon: 'home-pc.png', taskbar: 'Доклад',        menu: 'Этот доклад',  desktop: 'Этот доклад'  },
+    { href: '../text.html',  icon: 'article.png', taskbar: 'Текст статьи', menu: 'Текст статьи', desktop: 'Текст Статьи' },
+    { href: '../tailscale.html', icon: '../cdn/imanges/tailscale.png', taskbar: 'tailscale', menu:'tailscale', desktop: 'Tailscale.exe'}
   ];
 
   var AVATARS = [2, 3, 4, 5, 6, 7, 8, 9].map(function (n) { return ASSETS + 'vista-avatar-' + n + '.jpg|'; }).join('');
