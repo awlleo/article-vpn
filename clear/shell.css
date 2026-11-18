@@ -1,0 +1,138 @@
+/* Тема: серая схема Aero (бывший <style> в <head>) */
+  :root {
+    --aero-accent: #454545;
+    --aero-glass-tint: rgba(255, 255, 255, 0.1);
+    --aero-glass-tint-hover: rgba(255, 255, 255, 0.14);
+    --v-glass-blur: 5px;
+    --aero-cap-min: url("../cdn/shop/t/86/assets/cap-min0c71.png");
+    --aero-cap-max: url("../cdn/shop/t/86/assets/cap-maxa56f.png");
+    --aero-cap-close: url("../cdn/shop/t/86/assets/cap-close2aeb.png");
+    --aero-glyph-min: url("../cdn/shop/t/86/assets/glyph-min2c8c.png");
+    --aero-glyph-max: url("../cdn/shop/t/86/assets/glyph-max2edb.png");
+    --aero-glyph-close: url("../cdn/shop/t/86/assets/glyph-close49f3.png");
+    --aero-glass: url("../cdn/shop/t/86/assets/glass5ab1.png");
+    --aero-toolbar-bg: linear-gradient(180deg, #e8e8e8 0%, #DBDBDB 46%, #d1d1d1 100%);
+  }
+
+  /* Серая цветовая схема: панель задач, меню «Пуск», окна */
+  .command-bar { background: linear-gradient(#eaeaea, #DBDBDB 55%, #cecece); }
+  .command-bar .command-link { color: #444444 !important; }
+  .command-bar .command-link:hover,
+  .command-bar .command-link:focus-visible {
+    background: linear-gradient(#ffffff, #ffffff) !important;
+    border-color: rgba(219, 219, 219, 0.85) !important;
+  }
+  .pm-window::after {
+    background-image: linear-gradient(rgba(241, 247, 252, 0), rgba(221, 235, 247, 0)) !important;
+  }
+  .vfav .menu-link:hover, .menu-link:hover, .sm-item:hover {
+    background: linear-gradient(180deg, #8f8f8f 0%, #5C5C5C 45%, #383838 55%, #707070 100%);
+    border-color: #9e9e9e;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), inset 0 0 0 1px rgba(255, 255, 255, 0.25), 0 0 16px rgba(128, 128, 128, 0.6);
+    color: #ffffff;
+  }
+  .vfav .menu-link:hover *, .menu-link:hover * { color: #ffffff; }
+  .window.modal-window .title-bar-text, .window.pm-window .title-bar-text,
+  .window.cart-drawer .title-bar-text { color: #000000 !important; }
+  .eb-crumb > a:hover, .eb-crumb > span:last-child:hover {
+    color: #000000;
+    background: linear-gradient(180deg, #ababab 0%, #979797 48%, #878787 49%, #787878 100%);
+    border-color: #5f5f5f;
+  }
+  .eb-crumb > a:active, .eb-crumb > span:last-child:active {
+    background: linear-gradient(180deg, #7d7d7d 0%, #6b6b6b 48%, #616161 49%, #707070 100%);
+    border-color: #454545;
+  }
+  .eb-search:hover, .eb-search:focus-within {
+    border-color: #454545;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.95), 0 0 5px rgba(120, 120, 120, 0.55);
+  }
+  .section-eyebrow { color: #454545 !important; }
+
+  /* Цвета текста */
+  [class*="text-[#003399]"], [class*="text-[#152636]"], .section-title { color: #000000 !important; }
+  .window-body { color: #000000; }
+  [class*="text-[#444]"], [class*="text-[#41525f]"], [class*="text-[#1b2c3a]"], [class*="text-[#26333f]"],
+  .text-black { color: #000000 !important; }
+  [class*="text-[#2d61cb]"], .command-link, .eb-crumb > a, .eb-crumb > span:last-child, .vpage-content a { color: #000000 !important; }
+  [class*="text-[#737373]"], .text-slate-500 { color: #000000 !important; }
+  .window .title-bar-text { color: #FFFFFF !important; }
+  .title-bar-text, .window .title-bar-text { text-shadow: none !important; }
+  .window::before, .aero-window::before, .cart-drawer::before,
+  .modal-window::before, .pm-window::before {
+    border-color: rgba(255, 255, 255, 0.95) #FFFFFF #FFFFFF rgba(255, 255, 255, 0.8) !important;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.4) !important;
+  }
+  
+/* Фон рабочего стола */
+.aero-desktop-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-color: #0a2547;
+  background-image: url("../cdn/imanges/wlpp.png?width=1920");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aero-desktop-glare {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 18% 22%, rgba(255, 255, 255, .18), transparent 38%),
+    linear-gradient(180deg, rgba(6, 28, 52, .04), rgba(4, 20, 40, 0.22));
+}
+
+/* Панель задач и меню «Пуск» */
+.site-topbar {
+  background:
+    linear-gradient(180deg,
+      rgba(255, 255, 255, 0.18) 0,
+      rgba(255, 255, 255, 0.05) 8%,
+      rgba(0, 0, 0, 0) 30%,
+      rgba(0, 0, 0, 0) 50%,
+      rgba(255, 255, 255, 0.25) 100%),
+    rgba(2, 4, 8, 0.88);
+  border-top: 1px solid rgba(255, 255, 255, 0.45);
+}
+.taskbar-button {
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.22) 0,
+    rgba(255, 255, 255, 0.07) 49%,
+    rgba(255, 255, 255, 0.02) 51%,
+    rgba(255, 255, 255, 0.12) 100%);
+}
+.taskbar-button:hover,
+.taskbar-button:focus-visible {
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.32) 0,
+    rgba(255, 255, 255, 0.10) 49%,
+    rgba(255, 255, 255, 0.08) 51%,
+    rgba(255, 255, 255, 0.3) 100%);
+  border-color: rgba(255, 255, 255, 0.75);
+  box-shadow:
+    inset 0 1px rgba(255, 255, 255, 0.5),
+    inset 0 0 14px rgba(255, 255, 255, 0.35),
+    0 0 14px rgba(255, 255, 255, 0.4);
+}
+.start-orb {
+  background: radial-gradient(circle at 36% 26%, #fff 0 7%, #ffffff 16%, #ffffff 42%, #c7c7c7 72%, #9e9e9e);
+  box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.9),
+    inset 0 -5px 9px rgba(0, 0, 0, 0.55),
+    0 1px 3px rgba(0, 0, 0, 0.55),
+    0 0 16px rgba(255, 255, 255, 0.6);
+}
+.start-button:hover .start-orb { box-shadow: inset 0 1px 2px rgba(255,255,255,.9), 0 0 22px rgba(255, 255, 255, 0.85); }
+.start-chan, .start-face img { filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.7)); }
+.start-button:hover .start-chan,
+.start-button:hover .start-face img { filter: drop-shadow(0 1px 8px rgba(255, 255, 255, 0.9)); }
+.sm-right { background: linear-gradient(180deg, #434343, #202020); }
+.sm-right, .sm-place, .sm-all, .sm-user { color: #cdcdcd; }
+.sm-sep-r { background: rgba(205, 205, 205, 0.28); }
+.start-menu {
+  background: linear-gradient(180deg, #4e4e4e, #1a1a1a);
+  border-color: #6c6c6c;
+}
