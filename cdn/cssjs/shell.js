@@ -3,27 +3,21 @@
    Скрипт стоит в конце <body>: собирает оболочку, затем подключает скрипт темы. */
 (function () {
   'use strict';
-
-  /* ---------- Настройки ---------- */
-  var ASSETS = '../cdn/imanges/';   // картинки, относительно страницы в папке clear/
+  var ASSETS = '../cdn/imanges/';   
   var PAGES = [                     // единый список: панель задач + «Пуск» + рабочий стол
     { href: '../index.html', icon: 'home-pc.png', taskbar: 'Доклад',        menu: 'Этот доклад',  desktop: 'Этот доклад'  },
     { href: '../text.html',  icon: 'article.png', taskbar: 'Текст статьи', menu: 'Текст статьи', desktop: 'Текст Статьи' },
-    { href: '../tailscale.html', icon: '../cdn/imanges/tailscale.png', taskbar: 'tailscale', menu:'tailscale', desktop: 'Tailscale.exe'}
+    { href: '../tailscale.html', icon: 'Tailscale.png', taskbar: 'tailscale', menu:'tailscale', desktop: 'Tailale.exe'}
   ];
 
+
   var AVATARS = [2, 3, 4, 5, 6, 7, 8, 9].map(function (n) { return ASSETS + 'vista-avatar-' + n + '.jpg|'; }).join('');
-
-  /* ---------- Звуки темы отключены (должно быть задано до xyled-app.js) ---------- */
   window.VistaSfx = { enabled: false, volume: 0, sounds: {} };
-
-  /* ---------- Шаблоны ---------- */
   function taskbarLinks() {
     return PAGES.filter(function (p) { return p.taskbar; }).map(function (p) {
       return '<a class="taskbar-button" href="' + p.href + '"><img alt="" class="win-icon size-4" draggable="false" height="32" width="32" src="' + ASSETS + p.icon + '"> ' + p.taskbar + '</a>';
     }).join('\n    ');
   }
-
   function menuItems() {
     return PAGES.filter(function (p) { return p.menu; }).map(function (p) {
       return '<a class="sm-item" href="' + p.href + '">\n' +
@@ -32,7 +26,6 @@
         '  </a>';
     }).join('\n  ');
   }
-
   function desktopIcons() {
     return PAGES.map(function (p) {
       return '<a class="desktop-icon" href="' + p.href + '">\n' +
@@ -41,11 +34,9 @@
         '      </a>';
     }).join('\n      ');
   }
-
   var BACKGROUND =
     '<div class="aero-desktop-bg" aria-hidden="true"></div>' +
     '<div class="aero-desktop-glare" aria-hidden="true"></div>';
-
   var HEADER =
     '<div id="shopify-section-sections--28492643795222__vista_taskbar" class="shopify-section shopify-section-group-header-group">\n' +
     '  <header class="site-topbar z-50">\n' +
@@ -91,19 +82,14 @@
     '  </div>\n' +
     '</nav>\n' +
     '</div>';
-
   var FOOTER =
     '<div id="shopify-section-sections--28492643762454__vista_desktop_chrome" class="shopify-section shopify-section-group-footer-group">\n' +
     '    <div class="desktop-icons">\n      ' + desktopIcons() + '\n    </div>\n' +
     '  </div>';
-
-  /* ---------- Сборка ---------- */
   var wrapper = document.querySelector('.page-wrapper');
   document.body.insertAdjacentHTML('afterbegin', BACKGROUND);
   wrapper.insertAdjacentHTML('afterbegin', '<div id="header-group">' + HEADER + '</div>');
   wrapper.insertAdjacentHTML('beforeend', '<footer>' + FOOTER + '</footer>');
-
-  /* ---------- JS темы: меню «Пуск», часы, аватар (после сборки оболочки) ---------- */
   var theme = document.createElement('script');
   theme.src = '../cdn/shop/t/86/assets/xyled-app6bd6.js';
   document.body.appendChild(theme);

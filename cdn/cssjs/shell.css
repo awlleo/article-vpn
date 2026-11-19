@@ -1,7 +1,7 @@
 /* Стили темы Aero (подключаются первыми, чтобы остальные правила их переопределяли) */
-@import url("../cdn/shop/t/86/assets/xyled-app75da.css");
-@import url("../cdn/shop/t/86/assets/vista-aero0a8c.css");
-@import url("../cdn/shop/t/86/assets/xyled-bridgefdfb.css");
+@import url("/cdn/cssjs/app.css");
+@import url("/cdn/cssjs/aero.css");
+@import url("/cdn/cssjs/bridge.css");
 
 /* Тема: серая схема Aero (бывший <style> в <head>) */
   :root {
@@ -9,13 +9,13 @@
     --aero-glass-tint: rgba(255, 255, 255, 0.1);
     --aero-glass-tint-hover: rgba(255, 255, 255, 0.14);
     --v-glass-blur: 5px;
-    --aero-cap-min: url("../cdn/shop/t/86/assets/cap-min0c71.png");
-    --aero-cap-max: url("../cdn/shop/t/86/assets/cap-maxa56f.png");
-    --aero-cap-close: url("../cdn/shop/t/86/assets/cap-close2aeb.png");
-    --aero-glyph-min: url("../cdn/shop/t/86/assets/glyph-min2c8c.png");
-    --aero-glyph-max: url("../cdn/shop/t/86/assets/glyph-max2edb.png");
-    --aero-glyph-close: url("../cdn/shop/t/86/assets/glyph-close49f3.png");
-    --aero-glass: url("../cdn/shop/t/86/assets/glass5ab1.png");
+    --aero-cap-min: url("/cdn/shop/t/86/assets/cap-min0c71.png");
+    --aero-cap-max: url("/cdn/shop/t/86/assets/cap-maxa56f.png");
+    --aero-cap-close: url("/cdn/shop/t/86/assets/cap-close2aeb.png");
+    --aero-glyph-min: url("/cdn/shop/t/86/assets/glyph-min2c8c.png");
+    --aero-glyph-max: url("/cdn/shop/t/86/assets/glyph-max2edb.png");
+    --aero-glyph-close: url("/cdn/shop/t/86/assets/glyph-close49f3.png");
+    --aero-glass: url("/cdn/shop/t/86/assets/glass5ab1.png");
     --aero-toolbar-bg: linear-gradient(180deg, #e8e8e8 0%, #DBDBDB 46%, #d1d1d1 100%);
   }
 
@@ -76,7 +76,7 @@
   z-index: -1;
   pointer-events: none;
   background-color: #0a2547;
-  background-image: url("../cdn/imanges/wlpp.png?width=1920");
+  background-image: url("/cdn/imanges/wlpp.png?width=1920");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
