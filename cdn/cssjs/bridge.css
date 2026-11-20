@@ -410,12 +410,12 @@ a:focus:not(:focus-visible),
   height:18px;
   border:1px solid transparent;
   border-radius:2px;
-  background:url(crumbsep.png) 50% / 8px 8px no-repeat;
+  background:url(../shop/t/86/assets/crumbsep.png) 50% / 8px 8px no-repeat;
   cursor:default;
   transition:border-color 90ms linear
 }
 .eb-sep:hover {
-  background-image:url(crumbsep.png),linear-gradient(180deg,#fdffff,#eef8fe 48%,#dbf0fc 49%,#cde8fb);
+  background-image:url(../shop/t/86/assets/crumbsep.png),linear-gradient(180deg,#fdffff,#eef8fe 48%,#dbf0fc 49%,#cde8fb);
   background-position:50%,0 0;
   background-size:8px 8px,100% 100%;
   background-repeat:no-repeat,no-repeat;
@@ -423,7 +423,7 @@ a:focus:not(:focus-visible),
   box-shadow:inset 0 0 0 1px #ffffffd9
 }
 .eb-sep:active {
-  background-image:url(crumbsep.png),linear-gradient(180deg,#c6e4f9,#aed8f5 48%,#9dcff2 49%,#b6dff8);
+  background-image:url(../shop/t/86/assets/crumbsep.png),linear-gradient(180deg,#c6e4f9,#aed8f5 48%,#9dcff2 49%,#b6dff8);
   border-color:#79bce4;
   box-shadow:inset 0 1px 2px #466e8c47
 }
@@ -505,11 +505,11 @@ a:focus:not(:focus-visible),
   display:none!important
 }
 .eb-back.eb-grey {
-  background-image:url(navfwd.png);
+  background-image:url(../shop/t/86/assets/navfwd.png);
   transform:scaleX(-1)
 }
 .eb-fwd.eb-blue {
-  background-image:url(navback.png);
+  background-image:url(../shop/t/86/assets/navback.png);
   transform:scaleX(-1)
 }
 .eb-off {

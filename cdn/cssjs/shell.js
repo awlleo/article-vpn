@@ -3,11 +3,11 @@
    Скрипт стоит в конце <body>: собирает оболочку, затем подключает скрипт темы. */
 (function () {
   'use strict';
-  var ASSETS = '../cdn/imanges/';   
+  var ASSETS = 'cdn/imanges/';
   var PAGES = [                     // единый список: панель задач + «Пуск» + рабочий стол
-    { href: '../index.html', icon: 'home-pc.png', taskbar: 'Доклад',        menu: 'Этот доклад',  desktop: 'Этот доклад'  },
-    { href: '../text.html',  icon: 'article.png', taskbar: 'Текст статьи', menu: 'Текст статьи', desktop: 'Текст Статьи' },
-    { href: '../tailscale.html', icon: 'Tailscale.png', taskbar: 'tailscale', menu:'tailscale', desktop: 'Tailale.exe'}
+    { href: 'index.html', icon: 'home-pc.png', taskbar: 'Доклад',        menu: 'Этот доклад',  desktop: 'Этот доклад'  },
+    { href: 'text.html', icon: 'article.png', taskbar: 'Текст статьи', menu: 'Текст статьи', desktop: 'Текст Статьи' },
+    { href: 'tailscale.html', icon: 'Tailscale.png', taskbar: 'tailscale', menu:'tailscale', desktop: 'Tailscale.exe'}
   ];
 
 
@@ -91,6 +91,6 @@
   wrapper.insertAdjacentHTML('afterbegin', '<div id="header-group">' + HEADER + '</div>');
   wrapper.insertAdjacentHTML('beforeend', '<footer>' + FOOTER + '</footer>');
   var theme = document.createElement('script');
-  theme.src = '../cdn/shop/t/86/assets/xyled-app6bd6.js';
+  theme.src = 'cdn/shop/t/86/assets/xyled-app6bd6.js';
   document.body.appendChild(theme);
 })();
